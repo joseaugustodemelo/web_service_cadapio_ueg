@@ -1,3 +1,4 @@
+<html>
 <?php
 
 header("Content-Type: application/json; charset=UTF-8", true);
@@ -49,3 +50,4 @@ $json_str = '{
 
 echo $json_str;
 ?>
+</html>
