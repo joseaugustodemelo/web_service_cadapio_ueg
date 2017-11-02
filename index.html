@@ -1,52 +1,53 @@
 <html>
 
-  <title>Webservice Cardápio UEG</title>
-
 <script>
-	var json_str = '{'+
-	  '"weekly_menu_list": ['+
-		'{'+
-		  '"date": "Segunda-feira - 23/10/2017",'+
-		  '"main_course": "Recesso",'+
-		  '"guarnicao": "",'+
-		  '"salada": "",'+
-		  '"acompanhamento": "",'+
-		  '"sobremesa": ""'+
-		'},'+
-		'{'+
-		  '"date": "Terca-feira - 24/10/2017",'+
-		  '"main_course": "Feriado",'+
-		  '"guarnicao": "",'+
-		  '"salada": "",'+
-		  '"acompanhamento": "",'+
-		  '"sobremesa": ""'+
-		'},'+
-		'{'+
-		  '"date": "Quarta-feira - 25/10/2017",'+
-		  '"main_course": "Frango assado",'+
-		  '"guarnicao": "Macarrao",'+
-		  '"salada": "Alface, abobrinha e beterraba",'+
-		  '"acompanhamento": "Arroz branco e feijao de caldo",'+
-		  '"sobremesa": "Salada de frutas"'+      
-		'},'+
-		'{'+
-		  '"date": "Quinta-feira - 26/10/2017",'+
-		  '"main_course": "Bife de panela ao molho escuro",'+
-		  '"guarnicao": "Abobrinha refogada",'+
-		  '"salada": "Pepino, tomate e alafce",'+
-		  '"acompanhamento": "Arroz branco e feijao de caldo",'+
-		  '"sobremesa": "Doce de goiaba"'+
-		'},'+
-		'{'+
-		  '"date": "Sexta-feira - 27/10/2017",'+
-		  '"main_course": "Feijoada",'+
-		  '"guarnicao": "Farofa de uva passa com cebola",'+
-		  '"salada": "Vinagrete e couve",'+
-		  '"acompanhamento": "Arroz branco e feijao de caldo",'+
-		  '"sobremesa": "Abacaxi"'+
-		'}'+
-	  ']'+
-	'}';
-   console.log(JSON.parse(json_str));
-</script>
+	var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance 
+	xmlhttp.open("POST", "/json-handler");
+	xmlhttp.setRequestHeader("Content-Type", "application/json");
+	xmlhttp.send(JSON.stringify({
+weekly_menu_list: [
+{
+date: "Segunda-feira - 30/10/2017",
+main_course: "Lagarto de panela",
+guarnicao: "Batata assada",
+salada: "Alface, cenoura e tomate",
+acompanhamento: "Arroz branco e feijao de caldo",
+sobremesa: "Doce de leite em tablete"
+},
+{
+date: "Terca-feira - 31/10/2017",
+main_course: "Frango grelhado ou figado grelhado",
+guarnicao: "Pure de batata",
+salada: "Alface e tomate",
+acompanhamento: "Arroz branco e feijao de caldo",
+sobremesa: "Mamao"
+},
+{
+date: "Quarta-feira - 01/11/2017",
+main_course: "Carne suina ao molho ferrugem",
+guarnicao: "Chuchu com ervas",
+salada: "Alface, cenoura e pepino",
+acompanhamento: "Arroz branco e tutu de feijao",
+sobremesa: "Banana caramelada"
+},
+{
+date: "Quinta-feira - 02/11/2017",
+main_course: "Feriado",
+guarnicao: "",
+salada: "",
+acompanhamento: "",
+sobremesa: ""
+},
+{
+date: "Sexta-feira - 03/11/2017",
+main_course: "Recesso",
+guarnicao: "",
+salada: "",
+acompanhamento: "",
+sobremesa: ""
+}
+]
+}));
+</script> 
+
 </html>
