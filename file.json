@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 06/11/2017",
-      "main_course": "Frango a moda Roma",
-      "guarnicao": "Macarrao",
-      "salada": "Repolho e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Cocada"
+      "date": "Segunda-feira - 13/11/2017",
+      "main_course": "Carne moida ao molho de tomate",
+      "guarnicao": "Abobrinha com chuchu e tomate",
+      "salada": "Acelga, cenoura e laranja",
+      "acompanhamento": "Arroz branco e feijao de caldo",
+      "sobremesa": "Goiabada em tablete"
     },
     {
-      "date": "Terca-feira - 07/11/2017",
-      "main_course": "Estrogonofe de carne",
-      "guarnicao": "Kabutia ao molho de coco",
-      "salada": "Tomate, cenoura e beterraba",
-      "acompanhamento": "Arroz branco e feijao preto",
+      "date": "Terca-feira - 14/11/2017",
+      "main_course": "Frango na casquinha",
+      "guarnicao": "Creme de milho",
+      "salada": "Tomate, alface e beterraba",
+      "acompanhamento": "Arroz branco e feijao de caldo",
       "sobremesa": "Banana"
     },
     {
-      "date": "Quarta-feira - 08/11/2017",
-      "main_course": "Galinhada completa",
-      "guarnicao": "Batatinha ao sugo",
-      "salada": "Alface, vinagrete e tomate",
-      "acompanhamento": "Tutu de feijao com bacon",
-      "sobremesa": "Cural com canela"
+      "date": "Quarta-feira - 15/11/2017",
+      "main_course": "Feriado",
+      "guarnicao": "",
+      "salada": "",
+      "acompanhamento": "",
+      "sobremesa": ""
     },
     {
-      "date": "Quinta-feira - 09/11/2017",
-      "main_course": "Peixe empanado",
-      "guarnicao": "Macorronada",
-      "salada": "Alface, beterraba e abobrinha",
-      "acompanhamento": "Arroz branco e feijao de caldo",
-      "sobremesa": "Mamao"
+      "date": "Quinta-feira - 16/11/2017",
+      "main_course": "Costela refogada desossada",
+      "guarnicao": "Quibebe de mandioca",
+      "salada": "Cenoura, beterraba e repolho",
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Doce de leite"
     },
     {
-      "date": "Sexta-feira - 11/11/2017",
+      "date": "Sexta-feira - 17/11/2017",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de vagem com cenoura",
-      "salada": "Couve com vinagrete",
+      "guarnicao": "Virado de couve com alho",
+      "salada": "Acelga com vinagrete",
       "acompanhamento": "Arroz e feijao de caldo",
-      "sobremesa": "Laranja"
+      "sobremesa": "Abacaxi"
     }
   ]
 }
