@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 13/11/2017",
-      "main_course": "Carne moida ao molho de tomate",
-      "guarnicao": "Abobrinha com chuchu e tomate",
-      "salada": "Acelga, cenoura e laranja",
-      "acompanhamento": "Arroz branco e feijao de caldo",
+      "date": "Segunda-feira - 20/11/2017",
+      "main_course": "Carne ao molho ferrugem",
+      "guarnicao": "Cenoura com chuchu saute",
+      "salada": "Repolho, tomate e beterraba",
+      "acompanhamento": "Arroz branco e tutu de feijao",
       "sobremesa": "Goiabada em tablete"
     },
     {
-      "date": "Terca-feira - 14/11/2017",
-      "main_course": "Frango na casquinha",
-      "guarnicao": "Creme de milho",
-      "salada": "Tomate, alface e beterraba",
+      "date": "Terca-feira - 21/11/2017",
+      "main_course": "Dobradinha",
+      "guarnicao": "Cabutia refogada",
+      "salada": "Tomate, acelga e pepino",
+      "acompanhamento": "Arroz branco e feijao preto",
+      "sobremesa": "Abacaxi"
+    },
+    {
+      "date": "Quarta-feira - 22/11/2017",
+      "main_course": "Frango ao molho de acafrao",
+      "guarnicao": "Polenta",
+      "salada": "Alface, cenoura e repolho",
       "acompanhamento": "Arroz branco e feijao de caldo",
       "sobremesa": "Banana"
     },
     {
-      "date": "Quarta-feira - 15/11/2017",
-      "main_course": "Feriado",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
+      "date": "Quinta-feira - 23/11/2017",
+      "main_course": "Estrogonofe de carne",
+      "guarnicao": "Batata na manteiga",
+      "salada": "Alface, pepino, cebola e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Salada de frutas"
     },
     {
-      "date": "Quinta-feira - 16/11/2017",
-      "main_course": "Costela refogada desossada",
-      "guarnicao": "Quibebe de mandioca",
-      "salada": "Cenoura, beterraba e repolho",
-      "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Doce de leite"
-    },
-    {
-      "date": "Sexta-feira - 17/11/2017",
+      "date": "Sexta-feira - 24/11/2017",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de couve com alho",
-      "salada": "Acelga com vinagrete",
-      "acompanhamento": "Arroz e feijao de caldo",
-      "sobremesa": "Abacaxi"
+      "guarnicao": "Virado de abobrinha com ervas",
+      "salada": "Couve, vinagrete e cenoura",
+      "acompanhamento": "Arroz branco",
+      "sobremesa": "Laranja"
     }
   ]
 }
