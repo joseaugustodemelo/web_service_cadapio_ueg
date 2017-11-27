@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 20/11/2017",
-      "main_course": "Carne ao molho ferrugem",
-      "guarnicao": "Cenoura com chuchu saute",
-      "salada": "Repolho, tomate e beterraba",
-      "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Goiabada em tablete"
-    },
-    {
-      "date": "Terca-feira - 21/11/2017",
-      "main_course": "Dobradinha",
-      "guarnicao": "Cabutia refogada",
-      "salada": "Tomate, acelga e pepino",
-      "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Abacaxi"
-    },
-    {
-      "date": "Quarta-feira - 22/11/2017",
-      "main_course": "Frango ao molho de acafrao",
-      "guarnicao": "Polenta",
-      "salada": "Alface, cenoura e repolho",
+      "date": "Segunda-feira - 27/11/2017",
+      "main_course": "Ficasse de frango",
+      "guarnicao": "Abobrinha refogada",
+      "salada": "Acelga, tomate e pepino",
       "acompanhamento": "Arroz branco e feijao de caldo",
+      "sobremesa": "Melancia"
+    },
+    {
+      "date": "Terca-feira - 28/11/2017",
+      "main_course": "Carne de porco com ervas",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Tomate e reolho",
+      "acompanhamento": "Arroz branco e feijao preto",
       "sobremesa": "Banana"
     },
     {
-      "date": "Quinta-feira - 23/11/2017",
-      "main_course": "Estrogonofe de carne",
-      "guarnicao": "Batata na manteiga",
-      "salada": "Alface, pepino, cebola e beterraba",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Salada de frutas"
+      "date": "Quarta-feira - 29/11/2017",
+      "main_course": "Carne ao molho escuro com azeitonas",
+      "guarnicao": "Batata com ervas",
+      "salada": "Alface, chicoria e cenoura",
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Mamao"
     },
     {
-      "date": "Sexta-feira - 24/11/2017",
+      "date": "Quinta-feira - 30/11/2017",
+      "main_course": "Frango ao molho de laranja",
+      "guarnicao": "Kabutia refogada",
+      "salada": "Acelga, tomate e brocolis",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Doce de leite em tablete"
+    },
+    {
+      "date": "Sexta-feira - 01/12/2017",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de abobrinha com ervas",
-      "salada": "Couve, vinagrete e cenoura",
+      "guarnicao": "Farofa de batata de doce",
+      "salada": "Couve e vinagrete com rabanete",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
