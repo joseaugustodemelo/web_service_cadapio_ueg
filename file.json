@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 27/11/2017",
-      "main_course": "Ficasse de frango",
-      "guarnicao": "Abobrinha refogada",
-      "salada": "Acelga, tomate e pepino",
-      "acompanhamento": "Arroz branco e feijao de caldo",
-      "sobremesa": "Melancia"
+      "date": "Segunda-feira - 04/12/2017",
+      "main_course": "Arroz Maria Izabel",
+      "guarnicao": "Chuchu refogado",
+      "salada": "Acelga, tomate e laranja",
+      "acompanhamento": "Ttu de feijao",
+      "sobremesa": "Doce de banana em tablete"
     },
     {
-      "date": "Terca-feira - 28/11/2017",
-      "main_course": "Carne de porco com ervas",
-      "guarnicao": "Mandioca cremosa",
-      "salada": "Tomate e reolho",
-      "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Banana"
-    },
-    {
-      "date": "Quarta-feira - 29/11/2017",
-      "main_course": "Carne ao molho escuro com azeitonas",
-      "guarnicao": "Batata com ervas",
-      "salada": "Alface, chicoria e cenoura",
-      "acompanhamento": "Arroz branco e tutu de feijao",
+      "date": "Terca-feira - 05/12/2017",
+      "main_course": "Frango grelhado com ervas",
+      "guarnicao": "Macarronada com queijo ralado",
+      "salada": "Alface, agriao e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Mamao"
     },
     {
-      "date": "Quinta-feira - 30/11/2017",
-      "main_course": "Frango ao molho de laranja",
-      "guarnicao": "Kabutia refogada",
-      "salada": "Acelga, tomate e brocolis",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de leite em tablete"
+      "date": "Quarta-feira - 05/12/2017",
+      "main_course": "Carne xadrez",
+      "guarnicao": "Polenta com quiabo",
+      "salada": "Repolho, abacaxi e tomate",
+      "acompanhamento": "Arroz branco e feijao preto",
+      "sobremesa": "Salada de frutas"
     },
     {
-      "date": "Sexta-feira - 01/12/2017",
+      "date": "Quinta-feira - 06/12/2017",
+      "main_course": "Peixe empanado ao molho de tomate",
+      "guarnicao": "Pirao de batata",
+      "salada": "Alface, pepino e abobrinha",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana"
+    },
+    {
+      "date": "Sexta-feira - 07/12/2017",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de batata de doce",
-      "salada": "Couve e vinagrete com rabanete",
+      "guarnicao": "Farofa rica",
+      "salada": "Couve com uvas passas e vinagrete",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
