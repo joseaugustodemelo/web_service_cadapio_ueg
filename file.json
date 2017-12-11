@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 04/12/2017",
-      "main_course": "Arroz Maria Izabel",
-      "guarnicao": "Chuchu refogado",
-      "salada": "Acelga, tomate e laranja",
-      "acompanhamento": "Ttu de feijao",
-      "sobremesa": "Doce de banana em tablete"
+      "date": "Segunda-feira - 11/12/2017",
+      "main_course": "Bobo de carne",
+      "guarnicao": "Cuscuz com tomate",
+      "salada": "Repolho e cenoura",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Maca"
     },
     {
-      "date": "Terca-feira - 05/12/2017",
-      "main_course": "Frango grelhado com ervas",
-      "guarnicao": "Macarronada com queijo ralado",
-      "salada": "Alface, agriao e beterraba",
+      "date": "Terca-feira - 12/12/2017",
+      "main_course": "Frango xadrez",
+      "guarnicao": "Macarronada",
+      "salada": "Alface e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Melancia"
+    },
+    {
+      "date": "Quarta-feira - 13/12/2017",
+      "main_course": "Carne moida ao molho de tomate",
+      "guarnicao": "Cenoura e repolho ao shoyo",
+      "salada": "Repolho, tomate e beterraba",
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Mix de doces"
+    },
+    {
+      "date": "Quinta-feira - 14/12/2017",
+      "main_course": "Frango assado",
+      "guarnicao": "Pure de batata",
+      "salada": "Alface, cenoura e brocolis",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Mamao"
     },
     {
-      "date": "Quarta-feira - 05/12/2017",
-      "main_course": "Carne xadrez",
-      "guarnicao": "Polenta com quiabo",
-      "salada": "Repolho, abacaxi e tomate",
-      "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Salada de frutas"
-    },
-    {
-      "date": "Quinta-feira - 06/12/2017",
-      "main_course": "Peixe empanado ao molho de tomate",
-      "guarnicao": "Pirao de batata",
-      "salada": "Alface, pepino e abobrinha",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Banana"
-    },
-    {
-      "date": "Sexta-feira - 07/12/2017",
-      "main_course": "Feijoada",
-      "guarnicao": "Farofa rica",
-      "salada": "Couve com uvas passas e vinagrete",
-      "acompanhamento": "Arroz branco",
-      "sobremesa": "Laranja"
+      "date": "Sexta-feira - 15/12/2017",
+      "main_course": "Chester ao molho agredoce",
+      "guarnicao": "Fafora crocante",
+      "salada": "Salada tropical",
+      "acompanhamento": "Arroz branco com passas e feijão carioca",
+      "sobremesa": "Sonho de valsa"
     }
   ]
 }
