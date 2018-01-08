@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 18/12/2017",
-      "main_course": "Restaurante em recesso",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
-    },
-    {
-      "date": "Terca-feira - 19/12/2017",
-      "main_course": "Restaurante em recesso",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
-    },
-    {
-      "date": "Quarta-feira - 20/12/2017",
-      "main_course": "Restaurante em recesso",
-      "guarnicao": "Cenoura e repolho ao shoyo",
-      "salada": "Repolho, tomate e beterraba",
+      "date": "Segunda-feira - 08/01/2018",
+      "main_course": "Costela refogada desossada",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Repolho e tomate",
       "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Mix de doces"
+      "sobremesa": "Doce de goiaba em tablete"
     },
     {
-      "date": "Quinta-feira - 21/12/2017",
-      "main_course": "Restaurante em recesso",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
+      "date": "Terca-feira - 09/01/2018",
+      "main_course": "Frango assado",
+      "guarnicao": "Bata doce saute",
+      "salada": "Acelga, tomate e pepino",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Abacaxi"
     },
     {
-      "date": "Sexta-feira - 22/12/2017",
-      "main_course": "Restaurante em recesso",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
+      "date": "Quarta-feira - 10/01/2018",
+      "main_course": "Almondega acebolada",
+      "guarnicao": "Creme de cabutia com coco",
+      "salada": "Repolho, alface e cenoura",
+      "acompanhamento": "Arroz branco e feijao preto",
+      "sobremesa": "Banana"
+    },
+    {
+      "date": "Quinta-feira - 11/01/2018",
+      "main_course": "Frango ao molho",
+      "guarnicao": "Abobrinha com jilo",
+      "salada": "Alface, Pepino, cebola e beterreba",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Salada de frutas"
+    },
+    {
+      "date": "Sexta-feira - 12/01/2018",
+      "main_course": "Feijoada",
+      "guarnicao": "Farofa de cenoura",
+      "salada": "Couve e vinagrete",
+      "acompanhamento": "Arroz branco",
+      "sobremesa": "Laranja"
     }
   ]
 }
