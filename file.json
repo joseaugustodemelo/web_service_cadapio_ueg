@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 15/01/2018",
-      "main_course": "Bife de panela",
-      "guarnicao": "Pure de batatas",
-      "salada": "Acelga, pepino e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
-    },
-    {
-      "date": "Terca-feira - 16/01/2018",
-      "main_course": "Frango ao molho com milho",
-      "guarnicao": "Cenoura com vagem",
-      "salada": "Repolho e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Banana"
-    },
-    {
-      "date": "Quarta-feira - 17/01/2018",
-      "main_course": "Carne moida com cebola a pimentao",
-      "guarnicao": "Macarronada",
-      "salada": "Alface, chicoria e cenoura",
+      "date": "Segunda-feira - 22/01/2018",
+      "main_course": "Carne ao molho ferrugem",
+      "guarnicao": "Chuchu com cenoura",
+      "salada": "Acelga, laranja e tomate",
       "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Tablete doce de banana"
+    },
+    {
+      "date": "Terca-feira - 23/01/2018",
+      "main_course": "Frango assado",
+      "guarnicao": "Polenta",
+      "salada": "Alface, agriao e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Mamao"
     },
     {
-      "date": "Quinta-feira - 18/01/2018",
-      "main_course": "Frango de casquinha",
-      "guarnicao": "Batata com chuchu",
-      "salada": "Acelga, tomate e brocolis",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de leite"
+      "date": "Quarta-feira - 24/01/2018",
+      "main_course": "Estrogonofe de carne",
+      "guarnicao": "Batata na manteiga",
+      "salada": "Repolho, abacaxi e tomate",
+      "acompanhamento": "Arroz branco e feijao preto",
+      "sobremesa": "Banana"
     },
     {
-      "date": "Sexta-feira - 19/01/2018",
+      "date": "Quinta-feira - 25/01/2018",
+      "main_course": "Galinhada",
+      "guarnicao": "Cabutia refogada",
+      "salada": "Alface, pepino e cenoura",
+      "acompanhamento": "Feijao carioca",
+      "sobremesa": "Salada de frutas"
+    },
+    {
+      "date": "Sexta-feira - 26/01/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de banana",
-      "salada": "Couve e vinagrete com rabanete",
+      "guarnicao": "Virado de abobrinha com cenoura e ervas",
+      "salada": "Couve e vinagrete com uvas passas",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
