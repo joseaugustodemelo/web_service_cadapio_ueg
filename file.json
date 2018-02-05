@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 29/01/2018",
-      "main_course": "Goulash",
-      "guarnicao": "Macarrao alho e oleo",
-      "salada": "Repolho e cenoura",
-      "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Maca"
+      "date": "Segunda-feira - 05/02/2018",
+      "main_course": "Arroz Maria Izabel",
+      "guarnicao": "Cabutia cremosa",
+      "salada": "Acelga, pepino e beterraba",
+      "acompanhamento": "Feijao carioca",
+      "sobremesa": "Laranja"
     },
     {
-      "date": "Terca-feira - 30/01/2018",
-      "main_course": "Empanado de frango",
-      "guarnicao": "Batata com ervas",
-      "salada": "Alface, rucula e tomate",
+      "date": "Terca-feira - 06/02/2018",
+      "main_course": "Frango grelhado",
+      "guarnicao": "Polenta com quiabo",
+      "salada": "Alface, cenoura e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Melancia"
     },
     {
-      "date": "Quarta-feira - 31/01/2018",
-      "main_course": "Carne ao molho chines com cebola",
-      "guarnicao": "Abobrinha refogada",
-      "salada": "Acelga, tomate e beterraba",
-      "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Pudim sirio"
+      "date": "Quarta-feira - 07/02/2018",
+      "main_course": "Dobradinha",
+      "guarnicao": "Fafora rica",
+      "salada": "Couva, tomate e laranja",
+      "acompanhamento": "Arroz branco e feijao preto",
+      "sobremesa": "Banana"
     },
     {
-      "date": "Quinta-feira - 02/02/2018",
-      "main_course": "Iscas de frango ao molho de acafrao",
-      "guarnicao": "Cabutia",
-      "salada": "Alface, cenoura e brocolis",
-      "acompanhamento": "Arroz branco e feijao carioca",
+      "date": "Quinta-feira - 08/02/2018",
+      "main_course": "Carne ao molho madeira",
+      "guarnicao": "Batata saute",
+      "salada": "Salada tropical",
+      "acompanhamento": "Arroz com cenoura e tutu de feijao",
       "sobremesa": "Mamao"
     },
     {
-      "date": "Sexta-feira - 03/02/2018",
+      "date": "Sexta-feira - 09/02/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de batata doce",
-      "salada": "Couve e vinagrete",
+      "guarnicao": "Virado de abobrinha com farofa de milho",
+      "salada": "Couve com laranja e vinagrete",
       "acompanhamento": "Arroz branco",
-      "sobremesa": "Laranja"
+      "sobremesa": "Salada de frutas"
     }
   ]
 }
