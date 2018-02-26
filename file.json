@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 19/02/2018",
-      "main_course": "Carne de panela",
+      "date": "Segunda-feira - 26/02/2018",
+      "main_course": "Bife de panela ao molho escuro",
+      "guarnicao": "Cenoura com chuchu",
+      "salada": "Acelga, tomate e laranja",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Pe de moleque"
+    },
+    {
+      "date": "Terca-feira - 27/02/2018",
+      "main_course": "Almondega bovina ao molho de tomate",
       "guarnicao": "Cabutia refogada",
-      "salada": "Repolho, tomate e cenoura",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
-    },
-    {
-      "date": "Terca-feira - 20/02/2018",
-      "main_course": "Pernil ao molho de laranja e cravo",
-      "guarnicao": "Virado de batata doce",
-      "salada": "Salada de folhas e beterraba",
+      "salada": "Alface, agriao e beterraba",
       "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Doce de mamão ralado"
+      "sobremesa": "Mamão"
     },
     {
-      "date": "Quarta-feira - 21/02/2018",
-      "main_course": "Figado acebolado",
-      "guarnicao": "",
-      "salada": "Acelga, chicoria e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
+      "date": "Quarta-feira - 28/02/2018",
+      "main_course": "Frango assado com ervas",
+      "guarnicao": "Macarrao primavera",
+      "salada": "Repolho, abacaxi e tomate",
+      "acompanhamento": "Arroz branco e tutu de feijao",
       "sobremesa": "Salada de frutas"
     },
     {
-      "date": "Quinta-feira - 22/02/2018",
-      "main_course": "Frango de casquinha",
-      "guarnicao": "Pure de batatas",
-      "salada": "Acelga, maca e beterraba",
+      "date": "Quinta-feira - 01/03/2018",
+      "main_course": "Peixe empanado",
+      "guarnicao": "Pirao de batata",
+      "salada": "Alface, pepino e cenoura",
       "acompanhamento": "Arroz branco feijao carioca",
-      "sobremesa": "Banana"
+      "sobremesa": "Melancia"
     },
     {
-      "date": "Sexta-feira - 23/02/2018",
+      "date": "Sexta-feira - 02/03/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de couve com farinha de milho",
-      "salada": "Alface, tomate e cebola",
+      "guarnicao": "Farofa de cebola com maca",
+      "salada": "Couve, uvas passas e vinagrete",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
