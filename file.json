@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 26/02/2018",
-      "main_course": "Bife de panela ao molho escuro",
-      "guarnicao": "Cenoura com chuchu",
-      "salada": "Acelga, tomate e laranja",
+      "date": "Segunda-feira - 05/03/2018",
+      "main_course": "Costela refogada desossada",
+      "guarnicao": "Mandioca saute",
+      "salada": "Acelga, pepino e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Pe de moleque"
-    },
-    {
-      "date": "Terca-feira - 27/02/2018",
-      "main_course": "Almondega bovina ao molho de tomate",
-      "guarnicao": "Cabutia refogada",
-      "salada": "Alface, agriao e beterraba",
-      "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Mamão"
-    },
-    {
-      "date": "Quarta-feira - 28/02/2018",
-      "main_course": "Frango assado com ervas",
-      "guarnicao": "Macarrao primavera",
-      "salada": "Repolho, abacaxi e tomate",
-      "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Salada de frutas"
-    },
-    {
-      "date": "Quinta-feira - 01/03/2018",
-      "main_course": "Peixe empanado",
-      "guarnicao": "Pirao de batata",
-      "salada": "Alface, pepino e cenoura",
-      "acompanhamento": "Arroz branco feijao carioca",
       "sobremesa": "Melancia"
     },
     {
-      "date": "Sexta-feira - 02/03/2018",
+      "date": "Terca-feira - 06/03/2018",
+      "main_course": "Carne de panela acebolada",
+      "guarnicao": "Cabutia com ervas",
+      "salada": "Repolho e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana"
+    },
+    {
+      "date": "Quarta-feira - 07/03/2018",
+      "main_course": "Frango grelhado",
+      "guarnicao": "Cuscuz com tomate",
+      "salada": "Alface, chicoria e cenoura",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Doce de leite"
+    },
+    {
+      "date": "Quinta-feira - 08/03/2018",
+      "main_course": "Arroz Maria Izabel",
+      "guarnicao": "Batata Doce Saute",
+      "salada": "Aclega, tomate e brocolis",
+      "acompanhamento": "Tutu de feijao",
+      "sobremesa": "Salada de frutas"
+    },
+    {
+      "date": "Sexta-feira - 09/03/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de cebola com maca",
-      "salada": "Couve, uvas passas e vinagrete",
+      "guarnicao": "Farofa de uvas passas com cenoura",
+      "salada": "Couve e vinagrete",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
