@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 05/03/2018",
-      "main_course": "Costela refogada desossada",
-      "guarnicao": "Mandioca saute",
-      "salada": "Acelga, pepino e tomate",
+      "date": "Segunda-feira - 12/03/2018",
+      "main_course": "Estrogonofe de frango",
+      "guarnicao": "Abobrinha refogada",
+      "salada": "Acelga, pepino e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Laranja"
+    },
+    {
+      "date": "Terca-feira - 13/03/2018",
+      "main_course": "Iscas de figado aceboladas",
+      "guarnicao": "Batata na manteiga",
+      "salada": "Repolho, tomate e couve",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Melancia"
     },
     {
-      "date": "Terca-feira - 06/03/2018",
-      "main_course": "Carne de panela acebolada",
-      "guarnicao": "Cabutia com ervas",
-      "salada": "Repolho e tomate",
+      "date": "Quarta-feira - 14/03/2018",
+      "main_course": "Frango ao molho de acafrao",
+      "guarnicao": "Polenta com jilo",
+      "salada": "Alface, abacaxi e tomate",
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Doce de abobora"
+    },
+    {
+      "date": "Quinta-feira - 15/03/2018",
+      "main_course": "Carne ao molho ferrugem",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Alface e tabule",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Quarta-feira - 07/03/2018",
-      "main_course": "Frango grelhado",
-      "guarnicao": "Cuscuz com tomate",
-      "salada": "Alface, chicoria e cenoura",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de leite"
-    },
-    {
-      "date": "Quinta-feira - 08/03/2018",
-      "main_course": "Arroz Maria Izabel",
-      "guarnicao": "Batata Doce Saute",
-      "salada": "Aclega, tomate e brocolis",
-      "acompanhamento": "Tutu de feijao",
-      "sobremesa": "Salada de frutas"
-    },
-    {
-      "date": "Sexta-feira - 09/03/2018",
+      "date": "Sexta-feira - 16/03/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de uvas passas com cenoura",
-      "salada": "Couve e vinagrete",
+      "guarnicao": "Virado de cenoura com ervas",
+      "salada": "Couve, laranja e vinagrete",
       "acompanhamento": "Arroz branco",
-      "sobremesa": "Laranja"
+      "sobremesa": "Dueto de frutas"
     }
   ]
 }
