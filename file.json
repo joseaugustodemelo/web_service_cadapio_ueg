@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 12/03/2018",
-      "main_course": "Estrogonofe de frango",
-      "guarnicao": "Abobrinha refogada",
-      "salada": "Acelga, pepino e beterraba",
+      "date": "Segunda-feira - 19/03/2018",
+      "main_course": "Goulash",
+      "guarnicao": "Macarrao alho e oleo",
+      "salada": "Acelga, tomate e beterraba",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Laranja"
+      "sobremesa": "Cocada"
     },
     {
-      "date": "Terca-feira - 13/03/2018",
-      "main_course": "Iscas de figado aceboladas",
-      "guarnicao": "Batata na manteiga",
-      "salada": "Repolho, tomate e couve",
+      "date": "Terca-feira - 20/03/2018",
+      "main_course": "Fricasse de frango",
+      "guarnicao": "Batata com ervas",
+      "salada": "Cenoura, laranja e couve",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
+      "sobremesa": "Maca"
     },
     {
-      "date": "Quarta-feira - 14/03/2018",
-      "main_course": "Frango ao molho de acafrao",
-      "guarnicao": "Polenta com jilo",
-      "salada": "Alface, abacaxi e tomate",
+      "date": "Quarta-feira - 21/03/2018",
+      "main_course": "Carne ao molho madeira",
+      "guarnicao": "Cenoura com chuchu",
+      "salada": "Alface, pepino e tomate",
       "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Doce de abobora"
-    },
-    {
-      "date": "Quinta-feira - 15/03/2018",
-      "main_course": "Carne ao molho ferrugem",
-      "guarnicao": "Mandioca cremosa",
-      "salada": "Alface e tabule",
-      "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Sexta-feira - 16/03/2018",
+      "date": "Quinta-feira - 22/03/2018",
+      "main_course": "Iscas de frango acebolada",
+      "guarnicao": "Creme de cabutia com coco",
+      "salada": "Repolho e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Mamao"
+    },
+    {
+      "date": "Sexta-feira - 23/03/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de cenoura com ervas",
-      "salada": "Couve, laranja e vinagrete",
+      "guarnicao": "Farofa de batata de doce",
+      "salada": "Couve e vinagrete",
       "acompanhamento": "Arroz branco",
-      "sobremesa": "Dueto de frutas"
+      "sobremesa": "Laranja"
     }
   ]
 }
