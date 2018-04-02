@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 26/03/2018",
-      "main_course": "Arroz Maria Izabel",
-      "guarnicao": "Abobora cremosa",
-      "salada": "repolho, tomate e cenoura",
-      "acompanhamento": "Feijao carioca",
-      "sobremesa": "Goiabada"
+      "date": "Segunda-feira - 02/04/2018",
+      "main_course": "Carne ao molho chines com cebola",
+      "guarnicao": "Batata Saute",
+      "salada": "Repolho, tomate e laranja",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Doce de leite com amendoim"
     },
     {
-      "date": "Terca-feira - 27/03/2018",
-      "main_course": "Frango ao molho de acafrao",
-      "guarnicao": "Abobrinha refogada",
-      "salada": "Salada de folhas e tomate",
+      "date": "Terca-feira - 03/04/2018",
+      "main_course": "Frango de Casquinha",
+      "guarnicao": "Cabutia refogada",
+      "salada": "Alface, agriao e beterraba",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Melancia"
     },
     {
-      "date": "Quarta-feira - 28/03/2018",
-      "main_course": "Peixe empanado ao molho rose",
-      "guarnicao": "Pirao de batata",
-      "salada": "Alface, couve e cenoura",
+      "date": "Quarta-feira - 04/04/2018",
+      "main_course": "Almondega ao molho de tomate",
+      "guarnicao": "Macarrao primavera",
+      "salada": "Acelga, abacaxi e tomate",
+      "acompanhamento": "Arroz branco e tutu de feijao ",
+      "sobremesa": "Banana"
+    },
+    {
+      "date": "Quinta-feira - 05/04/2018",
+      "main_course": "Frango ao molho",
+      "guarnicao": "Cuscuz com tomate",
+      "salada": "Alface, pepino e abobrinha",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Salada de frutas"
+      "sobremesa": "Mamao"
     },
     {
-      "date": "Quinta-feira - 29/03/2018",
-      "main_course": "Recesso",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
-    },
-    {
-      "date": "Sexta-feira - 30/03/2018",
-      "main_course": "Feriado",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
+      "date": "Sexta-feira - 06/04/2018",
+      "main_course": "Feijoada",
+      "guarnicao": "Farofa de banana com cenoura",
+      "salada": "Couve, passas e vinagrete",
+      "acompanhamento": "Arroz branco",
+      "sobremesa": "Laranja"
     }
   ]
 }
