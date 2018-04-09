@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 02/04/2018",
-      "main_course": "Carne ao molho chines com cebola",
-      "guarnicao": "Batata Saute",
-      "salada": "Repolho, tomate e laranja",
+      "date": "Segunda-feira - 09/04/2018",
+      "main_course": "Carne de panela",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Repolho, tomate e beterraba",
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Doce de goiaba"
+    },
+    {
+      "date": "Terca-feira - 10/04/2018",
+      "main_course": "Pernil acebolado ao molho escuro",
+      "guarnicao": "Cabutia com coco",
+      "salada": "Alface, tomate e pepino",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de leite com amendoim"
-    },
-    {
-      "date": "Terca-feira - 03/04/2018",
-      "main_course": "Frango de Casquinha",
-      "guarnicao": "Cabutia refogada",
-      "salada": "Alface, agriao e beterraba",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
-    },
-    {
-      "date": "Quarta-feira - 04/04/2018",
-      "main_course": "Almondega ao molho de tomate",
-      "guarnicao": "Macarrao primavera",
-      "salada": "Acelga, abacaxi e tomate",
-      "acompanhamento": "Arroz branco e tutu de feijao ",
-      "sobremesa": "Banana"
-    },
-    {
-      "date": "Quinta-feira - 05/04/2018",
-      "main_course": "Frango ao molho",
-      "guarnicao": "Cuscuz com tomate",
-      "salada": "Alface, pepino e abobrinha",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Mamao"
-    },
-    {
-      "date": "Sexta-feira - 06/04/2018",
-      "main_course": "Feijoada",
-      "guarnicao": "Farofa de banana com cenoura",
-      "salada": "Couve, passas e vinagrete",
-      "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
+    },
+    {
+      "date": "Quarta-feira - 11/04/2018",
+      "main_course": "Frango xadrez",
+      "guarnicao": "Macarrao alho e oleo",
+      "salada": "Acelga, cenoura e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana caramelada"
+    },
+    {
+      "date": "Quinta-feira - 12/04/2018",
+      "main_course": "Peixe empanado ao molho branco",
+      "guarnicao": "Pirao de legumes",
+      "salada": "Alface, pepino e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Salada de frutas"
+    },
+    {
+      "date": "Sexta-feira - 13/04/2018",
+      "main_course": "Feijoada",
+      "guarnicao": "Farofa de uvas passas com cebola",
+      "salada": "Couve e vinagrete",
+      "acompanhamento": "Arroz branco",
+      "sobremesa": "Abacaxi"
     }
   ]
 }
