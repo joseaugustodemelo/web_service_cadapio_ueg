@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 16/04/2018",
-      "main_course": "Carne ao molho ferrugem",
-      "guarnicao": "Farofa de cebola e cheiro verde",
-      "salada": "Acelga, pepino e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de leite"
+      "date": "Segunda-feira - 30/04/2018",
+      "main_course": "Recesso",
+      "guarnicao": "",
+      "salada": "",
+      "acompanhamento": "",
+      "sobremesa": ""
     },
     {
-      "date": "Terca-feira - 17/04/2018",
-      "main_course": "Frango ao molho com milho",
+      "date": "Terca-feira - 01/05/2018",
+      "main_course": "Feriado",
+      "guarnicao": "",
+      "salada": "",
+      "acompanhamento": "",
+      "sobremesa": ""
+    },
+    {
+      "date": "Quarta-feira - 02/05/2018",
+      "main_course": "Linguiça assada",
       "guarnicao": "Pure de batatas",
-      "salada": "Repolho e tomate",
+      "salada": "Repolho, beterraba e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Abacaxi"
+      "sobremesa": "Laranja"
     },
     {
-      "date": "Quarta-feira - 18/04/2018",
-      "main_course": "Carne moida com cebola e pimentao",
-      "guarnicao": "Cacarronada ao sugo",
-      "salada": "Acelga, cenoura e tomate",
-      "acompanhamento": "Arroz branco e tutu de feijao",
+      "date": "Quinta-feira - 03/05/2018",
+      "main_course": "Peixe empanado",
+      "guarnicao": "Macarronada com queijo",
+      "salada": "Alface, cenoura e brocolis",
+      "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Mamao"
     },
     {
-      "date": "Quinta-feira - 19/04/2018",
-      "main_course": "Frango assado",
-      "guarnicao": "Abobriha com cenoura",
-      "salada": "Acega, tomate e brocolis",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
-    },
-    {
-      "date": "Sexta-feira - 20/04/2018",
+      "date": "Sexta-feira - 04/05/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de cenoura",
-      "salada": "Couve, vinagrete e rabanete",
+      "guarnicao": "Virado de couve",
+      "salada": "Acelga e vinagrete",
       "acompanhamento": "Arroz branco",
-      "sobremesa": "Laranja"
+      "sobremesa": "Abacaxi"
     }
   ]
 }
