@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 30/04/2018",
-      "main_course": "Recesso",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
-    },
-    {
-      "date": "Terca-feira - 01/05/2018",
-      "main_course": "Feriado",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
-    },
-    {
-      "date": "Quarta-feira - 02/05/2018",
-      "main_course": "Linguiça assada",
-      "guarnicao": "Pure de batatas",
-      "salada": "Repolho, beterraba e tomate",
+      "date": "Segunda-feira - 07/05/2018",
+      "main_course": "Carne de porco acebolada",
+      "guarnicao": "Cabutia com ervas",
+      "salada": "Acelga, pepino e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Laranja"
+      "sobremesa": "Doce de leite"
     },
     {
-      "date": "Quinta-feira - 03/05/2018",
-      "main_course": "Peixe empanado",
-      "guarnicao": "Macarronada com queijo",
+      "date": "Terca-feira - 08/05/2018",
+      "main_course": "Almondega ao molho de tomate",
+      "guarnicao": "Batata assada",
+      "salada": "Repolho e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana"
+    },
+    {
+      "date": "Quarta-feira - 09/05/2018",
+      "main_course": "Frango assado",
+      "guarnicao": "Polenta",
       "salada": "Alface, cenoura e brocolis",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Mamao"
+      "sobremesa": "Melancia"
     },
     {
-      "date": "Sexta-feira - 04/05/2018",
+      "date": "Quinta-feira - 10/05/2018",
+      "main_course": "Lagarto de panela",
+      "guarnicao": "Macarronada com cheiro verde",
+      "salada": "Alface e salpicao",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana caramelada"
+    },
+    {
+      "date": "Sexta-feira - 11/05/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de couve",
-      "salada": "Acelga e vinagrete",
+      "guarnicao": "Farofa de cebola com maca",
+      "salada": "Couve, rabanete e vinagrete",
       "acompanhamento": "Arroz branco",
-      "sobremesa": "Abacaxi"
+      "sobremesa": "Laranja"
     }
   ]
 }
