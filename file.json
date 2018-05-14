@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 07/05/2018",
-      "main_course": "Carne de porco acebolada",
-      "guarnicao": "Cabutia com ervas",
-      "salada": "Acelga, pepino e tomate",
+      "date": "Segunda-feira - 14/05/2018",
+      "main_course": "Carne ao molho ferrugem",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Repolho, beterraba e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Doce de leite"
     },
     {
-      "date": "Terca-feira - 08/05/2018",
-      "main_course": "Almondega ao molho de tomate",
-      "guarnicao": "Batata assada",
+      "date": "Terca-feira - 15/05/2018",
+      "main_course": "Frango grelhado",
+      "guarnicao": "Polenta com jilo",
+      "salada": "Alface, abacaxi e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Mamao"
+    },
+    {
+      "date": "Quarta-feira - 16/05/2018",
+      "main_course": "Estrogonofe de carne",
+      "guarnicao": "Batata na manteiga",
       "salada": "Repolho e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Quarta-feira - 09/05/2018",
-      "main_course": "Frango assado",
-      "guarnicao": "Polenta",
-      "salada": "Alface, cenoura e brocolis",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
+      "date": "Quinta-feira - 17/05/2018",
+      "main_course": "Galinhada",
+      "guarnicao": "Abobrinha refogada",
+      "salada": "Alface, pepino e cenoura",
+      "acompanhamento": "Tutu de feijao",
+      "sobremesa": "Salada de frutas"
     },
     {
-      "date": "Quinta-feira - 10/05/2018",
-      "main_course": "Lagarto de panela",
-      "guarnicao": "Macarronada com cheiro verde",
-      "salada": "Alface e salpicao",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Banana caramelada"
-    },
-    {
-      "date": "Sexta-feira - 11/05/2018",
+      "date": "Sexta-feira - 18/05/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Farofa de cebola com maca",
-      "salada": "Couve, rabanete e vinagrete",
+      "guarnicao": "Virado de cenoura com ervas",
+      "salada": "Couve, vinagrete e azeitonas",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
