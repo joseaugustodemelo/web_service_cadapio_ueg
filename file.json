@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 21/05/2018",
-      "main_course": "Fricassẽ de frango",
-      "guarnicao": "Batata com ervas",
-      "salada": "Acelga, laranja e tomate",
+      "date": "Segunda-feira - 28/05/2018",
+      "main_course": "Arroz Maria Isabel",
+      "guarnicao": "Polenta",
+      "salada": "Pepino, repolho e tomate",
+      "acompanhamento": "Tutu de feijao",
+      "sobremesa": "Mix de doces"
+    },
+    {
+      "date": "Terca-feira - 29/05/2018",
+      "main_course": "Frango ao molho de acafrao",
+      "guarnicao": "Macarronada com cheiro verde",
+      "salada": "Mix de folhas e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Tablete de doce de sirio"
+      "sobremesa": "Laranja"
     },
     {
-      "date": "Terca-feira - 22/05/2018",
-      "main_course": "Pernil ao molho shoyo e ervas",
-      "guarnicao": "Mandioca com cheiro verde",
-      "salada": "Repolho e tomate",
-      "acompanhamento": "Arroz branco e feijao preto",
-      "sobremesa": "Melancia"
-    },
-    {
-      "date": "Quarta-feira - 23/05/2018",
-      "main_course": "Macarrao a moda Roma",
-      "guarnicao": "Macarrao a bolonhesa",
-      "salada": "Salada especial",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Mousse ou goiabada"
-    },
-    {
-      "date": "Quinta-feira - 24/05/2018",
-      "main_course": "Iscas de frango aceboladas",
-      "guarnicao": "Quibebe de cabutia",
-      "salada": "Alface, tomate e beterraba",
+      "date": "Quarta-feira - 30/05/2018",
+      "main_course": "Peixe empanado",
+      "guarnicao": "Pirao de batata",
+      "salada": "couve, pepino e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Sexta-feira - 25/05/2018",
-      "main_course": "Feijoada",
-      "guarnicao": "Virado de cebola com cenoura",
-      "salada": "Couve, vinagrete e rabanete",
-      "acompanhamento": "Arroz branco",
-      "sobremesa": "Laranja"
+      "date": "Quinta-feira - 31/05/2018",
+      "main_course": "",
+      "guarnicao": "",
+      "salada": "",
+      "acompanhamento": "",
+      "sobremesa": ""
+    },
+    {
+      "date": "Sexta-feira - 01/06/2018",
+      "main_course": "Recessp",
+      "guarnicao": "",
+      "salada": "",
+      "acompanhamento": "",
+      "sobremesa": ""
     }
   ]
 }
