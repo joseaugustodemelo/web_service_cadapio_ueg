@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 28/05/2018",
-      "main_course": "Arroz Maria Isabel",
-      "guarnicao": "Polenta",
+      "date": "Segunda-feira - 04/06/2018",
+      "main_course": "Frango Xadrez",
+      "guarnicao": "Macarrao alho e oleo",
       "salada": "Pepino, repolho e tomate",
-      "acompanhamento": "Tutu de feijao",
-      "sobremesa": "Mix de doces"
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Pacoca"
     },
     {
-      "date": "Terca-feira - 29/05/2018",
-      "main_course": "Frango ao molho de acafrao",
-      "guarnicao": "Macarronada com cheiro verde",
-      "salada": "Mix de folhas e tomate",
+      "date": "Terca-feira - 05/06/2018",
+      "main_course": "Bobo de carne",
+      "guarnicao": "Cuscuz com tomate",
+      "salada": "Alface, rucula e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana caramelad"
+    },
+    {
+      "date": "Quarta-feira - 06/06/2018",
+      "main_course": "Frango de casquinha",
+      "guarnicao": "Abobrinha refogada",
+      "salada": "Acelga, brocolis e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Melancia"
+    },
+    {
+      "date": "Quinta-feira - 06/06/2018",
+      "main_course": "Carne moida com molho de tomate",
+      "guarnicao": "Polenta",
+      "salada": "Alface, cenoura e tomate",
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Mamao"
+    },
+    {
+      "date": "Sexta-feira - 07/06/2018",
+      "main_course": "Feijoada",
+      "guarnicao": "Farofa de bana com cebola",
+      "salada": "Couve e vinagrete",
+      "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
-    },
-    {
-      "date": "Quarta-feira - 30/05/2018",
-      "main_course": "Peixe empanado",
-      "guarnicao": "Pirao de batata",
-      "salada": "couve, pepino e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Banana"
-    },
-    {
-      "date": "Quinta-feira - 31/05/2018",
-      "main_course": "",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
-    },
-    {
-      "date": "Sexta-feira - 01/06/2018",
-      "main_course": "Recessp",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
     }
   ]
 }
