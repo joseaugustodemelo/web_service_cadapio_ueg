@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 11/06/2018",
-      "main_course": "Carne de panela",
-      "guarnicao": "Cabutia cremosa",
-      "salada": "Beterraba, repolho e tomate",
+      "date": "Segunda-feira - 18/06/2018",
+      "main_course": "Frango ao molho de acafrao",
+      "guarnicao": "Chuchu com cenoura",
+      "salada": "Acelga com abacaxi e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
+      "sobremesa": "Doce de banana"
     },
     {
-      "date": "Terca-feira - 12/06/2018",
-      "main_course": "Frango grelhado ao molho de ervas",
-      "guarnicao": "Legumes salteados",
-      "salada": "Acelga, cenoura e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
+      "date": "Terca-feira - 19/06/2018",
+      "main_course": "Bife de panela ao molho escuro",
+      "guarnicao": "Abobrinha refogada",
+      "salada": "Alface, cenoura e beterraba",
+      "acompanhamento": "Arroz branco e tutu de feijao",
       "sobremesa": "Mamao"
     },
     {
-      "date": "Quarta-feira - 13/06/2018",
-      "main_course": "Arroz com carne suina",
-      "guarnicao": "Canjiquinha a mineira",
-      "salada": "Alface e vinagrete",
-      "acompanhamento": "Tutu de feijao",
-      "sobremesa": "Doce de leite cremoso"
+      "date": "Quarta-feira - 20/06/2018",
+      "main_course": "Frango assado com queijo e cheiro verde",
+      "guarnicao": "Pirao de legumes",
+      "salada": "Repolho bicolor e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Salada de frutas"
     },
     {
-      "date": "Quinta-feira - 14/06/2018",
-      "main_course": "Frango ao molho",
-      "guarnicao": "Pure de batatas",
-      "salada": "Alface e tabule",
+      "date": "Quinta-feira - 21/06/2018",
+      "main_course": "Iscas de carne acebolada",
+      "guarnicao": "Macarrao com cenoura e molho de acafrao",
+      "salada": "Alface, tomate e pepino",
       "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Sexta-feira - 15/06/2018",
+      "date": "Sexta-feira - 22/06/2018",
       "main_course": "Feijoada",
-      "guarnicao": "Virado de abobrinha",
-      "salada": "Couve e vinagrete",
+      "guarnicao": "Farofa de batata com cebola",
+      "salada": "Couve e vinagrete com azeitona",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
