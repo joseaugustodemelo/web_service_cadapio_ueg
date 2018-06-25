@@ -1,44 +1,44 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 18/06/2018",
-      "main_course": "Frango ao molho de acafrao",
-      "guarnicao": "Chuchu com cenoura",
-      "salada": "Acelga com abacaxi e tomate",
+      "date": "Segunda-feira - 25/06/2018",
+      "main_course": "Linguiça assada",
+      "guarnicao": "Quibebe de mandioca com acafrao",
+      "salada": "Repolho, cenoura e tomate",
       "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de banana"
+      "sobremesa": "Doce de leite com amendoin"
     },
     {
-      "date": "Terca-feira - 19/06/2018",
-      "main_course": "Bife de panela ao molho escuro",
-      "guarnicao": "Abobrinha refogada",
-      "salada": "Alface, cenoura e beterraba",
+      "date": "Terca-feira - 26/06/2018",
+      "main_course": "Frango grelhado",
+      "guarnicao": "Pure de batata com banana",
+      "salada": "Alface, tomate e beterraba",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Melancia"
+    },
+    {
+      "date": "Quarta-feira - 27/06/2018",
+      "main_course": "Carne suína acebolada",
+      "guarnicao": "Legumes salteados",
+      "salada": "Alface, cenoura e pepino",
       "acompanhamento": "Arroz branco e tutu de feijao",
-      "sobremesa": "Mamao"
-    },
-    {
-      "date": "Quarta-feira - 20/06/2018",
-      "main_course": "Frango assado com queijo e cheiro verde",
-      "guarnicao": "Pirao de legumes",
-      "salada": "Repolho bicolor e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Salada de frutas"
-    },
-    {
-      "date": "Quinta-feira - 21/06/2018",
-      "main_course": "Iscas de carne acebolada",
-      "guarnicao": "Macarrao com cenoura e molho de acafrao",
-      "salada": "Alface, tomate e pepino",
-      "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Sexta-feira - 22/06/2018",
-      "main_course": "",
-      "guarnicao": "",
-      "salada": "",
-      "acompanhamento": "",
-      "sobremesa": ""
+      "date": "Quinta-feira - 28/06/2018",
+      "main_course": "Galinha",
+      "guarnicao": "Cuscuz",
+      "salada": "Acelga com laranja e tomate",
+      "acompanhamento": "Feijao carioca",
+      "sobremesa": "Canjica ou Pacoca"
+    },
+    {
+      "date": "Sexta-feira - 29/06/2018",
+      "main_course": "Fijoada",
+      "guarnicao": "Virado de couve",
+      "salada": "Alface e vinagrete",
+      "acompanhamento": "Arroz branco",
+      "sobremesa": "Laranja"
     }
   ]
 }
