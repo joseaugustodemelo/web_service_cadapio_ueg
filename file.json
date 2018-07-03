@@ -1,42 +1,42 @@
 {
   "weekly_menu_list": [
     {
-      "date": "Segunda-feira - 25/06/2018",
-      "main_course": "Linguiça assada",
-      "guarnicao": "Quibebe de mandioca com acafrao",
-      "salada": "Repolho, cenoura e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Doce de leite com amendoin"
+      "date": "Segunda-feira - 02/07/2018",
+      "main_course": "Recesso",
+      "guarnicao": "",
+      "salada": "",
+      "acompanhamento": "",
+      "sobremesa": ""
     },
     {
-      "date": "Terca-feira - 26/06/2018",
-      "main_course": "Frango grelhado",
-      "guarnicao": "Pure de batata com banana",
+      "date": "Terca-feira - 03/07/2018",
+      "main_course": "Carne moída com cebola e pimentão",
+      "guarnicao": "Chuchu com abobrinha",
       "salada": "Alface, tomate e beterraba",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Melancia"
+      "acompanhamento": "Arroz branco e tutu de feijao",
+      "sobremesa": "Mix de doces"
     },
     {
-      "date": "Quarta-feira - 27/06/2018",
-      "main_course": "Carne suína acebolada",
-      "guarnicao": "Legumes salteados",
-      "salada": "Alface, cenoura e pepino",
-      "acompanhamento": "Arroz branco e tutu de feijao",
+      "date": "Quarta-feira - 04/07/2018",
+      "main_course": "Peixe empanado",
+      "guarnicao": "Creme de abõbora com coco",
+      "salada": "Acelga, cenoura e pepino",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Mamao"
+    },
+    {
+      "date": "Quinta-feira - 05/07/2018",
+      "main_course": "Goulash",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Couve com abacaxe e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
       "sobremesa": "Banana"
     },
     {
-      "date": "Quinta-feira - 28/06/2018",
-      "main_course": "Galinha",
-      "guarnicao": "Cuscuz",
-      "salada": "Acelga com laranja e tomate",
-      "acompanhamento": "Feijao carioca",
-      "sobremesa": "Canjica ou Pacoca"
-    },
-    {
-      "date": "Sexta-feira - 29/06/2018",
-      "main_course": "Fijoada",
-      "guarnicao": "Virado de couve",
-      "salada": "Alface e vinagrete",
+      "date": "Sexta-feira - 06/07/2018",
+      "main_course": "Feijoada",
+      "guarnicao": "Farofa de cenoura com cheiro verde",
+      "salada": "Alface, vinagrete e pepino",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
     }
