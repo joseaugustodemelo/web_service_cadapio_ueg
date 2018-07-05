@@ -26,19 +26,19 @@
     },
     {
       "date": "Quinta-feira - 05/07/2018",
-      "main_course": "Goulash",
-      "guarnicao": "Mandioca cremosa",
-      "salada": "Couve com abacaxe e tomate",
-      "acompanhamento": "Arroz branco e feijao carioca",
-      "sobremesa": "Banana"
-    },
-    {
-      "date": "Sexta-feira - 06/07/2018",
       "main_course": "Feijoada",
       "guarnicao": "Farofa de cenoura com cheiro verde",
       "salada": "Alface, vinagrete e pepino",
       "acompanhamento": "Arroz branco",
       "sobremesa": "Laranja"
+    },
+    {
+      "date": "Sexta-feira - 06/07/2018",
+      "main_course": "Goulash",
+      "guarnicao": "Mandioca cremosa",
+      "salada": "Couve com abacaxe e tomate",
+      "acompanhamento": "Arroz branco e feijao carioca",
+      "sobremesa": "Banana"      
     }
   ]
 }
