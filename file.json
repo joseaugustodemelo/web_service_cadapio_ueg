@@ -1,40 +1,40 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 09/07/2018",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Abobrinha com chuchu e cabutia",
-			"salada": "Acelga, laranja e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Doce de batata doce"
-		},
-		{
-			"date": "Terca-feira - 10/07/2018",
-			"main_course": "Almôndega ao molho de tomate",
-			"guarnicao": "Batata com ervas",
-			"salada": "Alface, repolho e beterraba",
+			"date": "Segunda-feira - 16/07/2018",
+			"main_course": "Carne ao molho ferrugem",
+			"guarnicao": "Macorronada",
+			"salada": "Acelga, tomate e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
+			"sobremesa": "Doce de banana"
 		},
 		{
-			"date": "Quarta-feira - 11/07/2018",
-			"main_course": "Frango de casquinha",
-			"guarnicao": "Polenta",
-			"salada": "Alface com couve e cenoura",
+			"date": "Terca-feira - 17/07/2018",
+			"main_course": "Bobo de frango",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Alface, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Quinta-feira - 12/07/2018",
-			"main_course": "Carne ao molho chines",
-			"guarnicao": "Batata doce saute",
-			"salada": "Acelga, tomate e abobrinha",
+			"date": "Quarta-feira - 18/07/2018",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Poleta",
+			"salada": "Repolho e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quinta-feira - 19/07/2018",
+			"main_course": "Galinhada",
+			"guarnicao": "Legumes salteados",
+			"salada": "Mix de folhas com cenoura",
+			"acompanhamento": "Tutu de feijao",
 			"sobremesa": "Salada de frutas"
 		},
 		{
-			"date": "Sexta-feira - 13/07/2018",
+			"date": "Sexta-feira - 20/07/2018",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
+			"guarnicao": "Virado de cenoura com ervas",
 			"salada": "Couve e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
