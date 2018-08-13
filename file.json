@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 23/07/2018",
-			"main_course": "Fricasse de frango",
-			"guarnicao": "Batata com ervas",
-			"salada": "Acelga, laranja e pepino",
+			"date": "Segunda-feira - 13/08/2018",
+			"main_course": "Carne ao molho ferrugem",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Repolho, tomate e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de leite com mamao"
+			"sobremesa": "Doce de batata doce"
 		},
 		{
-			"date": "Terca-feira - 24/07/2018",
-			"main_course": "Linguiça assada acebolada",
-			"guarnicao": "Quibebe de mandioca",
+			"date": "Terca-feira - 14/08/2018",
+			"main_course": "Carne de porco acebolada",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Alface, cenoura e pepino",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quarta-feira - 15/08/2018",
+			"main_course": "Frango ao molho",
+			"guarnicao": "Polenta",
 			"salada": "Repolho e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Quarta-feira - 25/07/2018",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quinta-feira - 16/08/2018",
+			"main_course": "Goulash",
+			"guarnicao": "Batata doce saute",
+			"salada": "Acelga, alface e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Salada de frutas"
 		},
 		{
-			"date": "Quinta-feira - 26/07/2018",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
-		},
-		{
-			"date": "Sexta-feira - 27/07/2018",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Sexta-feira - 17/08/2018",
+			"main_course": "Feijoada",
+			"guarnicao": "Fafora crocrante",
+			"salada": "Couve e vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
