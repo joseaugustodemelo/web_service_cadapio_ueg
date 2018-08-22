@@ -1,40 +1,40 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 13/08/2018",
-			"main_course": "Carne ao molho ferrugem",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Repolho, tomate e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de batata doce"
-		},
-		{
-			"date": "Terca-feira - 14/08/2018",
-			"main_course": "Carne de porco acebolada",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Alface, cenoura e pepino",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 15/08/2018",
+			"date": "Segunda-feira - 20/08/2018",
 			"main_course": "Frango ao molho",
-			"guarnicao": "Polenta",
+			"guarnicao": "Pure de batatas",
+			"salada": "Acelga, brocolis e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Doce em tablete"
+		},
+		{
+			"date": "Terca-feira - 21/08/2018",
+			"main_course": "Bife de panela acebolado",
+			"guarnicao": "Chuchu refogado",
 			"salada": "Repolho e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Quarta-feira - 22/08/2018",
+			"main_course": "Frango assado",
+			"guarnicao": "Creme de Cabutia",
+			"salada": "Alface, acelga e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Quinta-feira - 16/08/2018",
-			"main_course": "Goulash",
-			"guarnicao": "Batata doce saute",
-			"salada": "Acelga, alface e beterraba",
+			"date": "Quinta-feira - 23/08/2018",
+			"main_course": "Carne moída com pimentao e cenoura",
+			"guarnicao": "Macarronada",
+			"salada": "Tomate, alface e pepino",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Salada de frutas"
+			"sobremesa": "Banana"
 		},
 		{
-			"date": "Sexta-feira - 17/08/2018",
+			"date": "Sexta-feira - 24/08/2018",
 			"main_course": "Feijoada",
-			"guarnicao": "Fafora crocrante",
+			"guarnicao": "Fafora de batata doce",
 			"salada": "Couve e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
