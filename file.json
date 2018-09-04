@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 27/08/2018",
-			"main_course": "",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Segunda-feira - 03/09/2018",
+			"main_course": "Frango Acebolado",
+			"guarnicao": "Macarronada",
+			"salada": "Repolho e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Doce de banana"
 		},
 		{
-			"date": "Terca-feira - 28/08/2018",
-			"main_course": "",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Terca-feira - 04/09/2018",
+			"main_course": "Estrogonofe de carne",
+			"guarnicao": "Batata na manteiga",
+			"salada": "Alface, tomate e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Quarta-feira - 29/08/2018",
-			"main_course": "",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quarta-feira - 05/09/2018",
+			"main_course": "Peixe empanado com molho de ervas",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Folhas com frutas",
+			"acompanhamento": "Arroz com milho e ervilha, Feijao carioca",
+			"sobremesa": "Mix de doces"
 		},
 		{
-			"date": "Quinta-feira - 30/08/2018",
-			"main_course": "Galinhada",
-			"guarnicao": "Chuchu refogado",
-			"salada": "Tomate, acelga e laranja",
-			"acompanhamento": "Feijao carioca",
-			"sobremesa": "Salada de frutas"
-		},
-		{
-			"date": "Sexta-feira - 31/08/2018",
+			"date": "Quinta-feira - 06/09/2018",
 			"main_course": "Feijoada",
-			"guarnicao": "Fafora de cenoura",
-			"salada": "Couve, vinagrete e azeitnas",
+			"guarnicao": "Fafora de banana",
+			"salada": "Couve e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
+		},
+		{
+			"date": "Sexta-feira - 07/09/2018",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		}
 	]
 }
