@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 03/09/2018",
-			"main_course": "Frango Acebolado",
-			"guarnicao": "Macarronada",
-			"salada": "Repolho e tomate",
+			"date": "Segunda-feira - 10/09/2018",
+			"main_course": "Frango ao molho chines",
+			"guarnicao": "Kabutia refogada",
+			"salada": "Acelga, cenoura e laranja",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Doce de banana"
 		},
 		{
-			"date": "Terca-feira - 04/09/2018",
-			"main_course": "Estrogonofe de carne",
-			"guarnicao": "Batata na manteiga",
-			"salada": "Alface, tomate e beterraba",
+			"date": "Terca-feira - 11/09/2018",
+			"main_course": "Moela de Frango",
+			"guarnicao": "Legumes salteados",
+			"salada": "Alface, repolho e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Mamao"
+		},
+		{
+			"date": "Quarta-feira - 12/09/2018",
+			"main_course": "Linguica assada",
+			"guarnicao": "Polenta",
+			"salada": "Couve, tomate e beterraba",
+			"acompanhamento": "Arroz branco e Feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quinta-feira - 13/09/2018",
+			"main_course": "Carne ao molho sugo",
+			"guarnicao": "Batata saute",
+			"salada": "Alface, cenoura e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"sobremesa": "Salada de frutas"
 		},
 		{
-			"date": "Quarta-feira - 05/09/2018",
-			"main_course": "Peixe empanado com molho de ervas",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Folhas com frutas",
-			"acompanhamento": "Arroz com milho e ervilha, Feijao carioca",
-			"sobremesa": "Mix de doces"
-		},
-		{
-			"date": "Quinta-feira - 06/09/2018",
+			"date": "Sexta-feira - 14/09/2018",
 			"main_course": "Feijoada",
-			"guarnicao": "Fafora de banana",
-			"salada": "Couve e vinagrete",
+			"guarnicao": "Virado de couve",
+			"salada": "Acelga e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
-		},
-		{
-			"date": "Sexta-feira - 07/09/2018",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
 		}
 	]
 }
