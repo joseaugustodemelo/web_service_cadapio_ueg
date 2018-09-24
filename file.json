@@ -1,42 +1,42 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 17/09/2018",
-			"main_course": "Iscas de carne aceboladas",
-			"guarnicao": "Macarronada",
-			"salada": "Acelga, laranja e pepino",
+			"date": "Segunda-feira - 24/09/2018",
+			"main_course": "Frango ao molho",
+			"guarnicao": "Cucuz com tomate",
+			"salada": "Acelga, tomate e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de leite em pasta"
+			"sobremesa": "Mix de doces"
 		},
 		{
-			"date": "Terca-feira - 18/09/2018",
-			"main_course": "Frango grelhado",
-			"guarnicao": "Polenta com jilo",
-			"salada": "Repolho e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 19/09/2018",
-			"main_course": "Linguica assada",
-			"guarnicao": "Pure de batatas com ervas",
-			"salada": "Folhas com tomate",
-			"acompanhamento": "Arroz branco e Feijao carioca",
-			"sobremesa": "Doce de goiaba"
-		},
-		{
-			"date": "Quinta-feira - 20/09/2018",
-			"main_course": "Quibe assado",
-			"guarnicao": "Aobrinha refogada",
-			"salada": "Alface, cenoura e acelga",
+			"date": "Terca-feira - 25/09/2018",
+			"main_course": "Carne de panela",
+			"guarnicao": "Pure de abobora",
+			"salada": "Alface, rucula e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Sexta-feira - 21/09/2018",
-			"main_course": "Estrogonofe de frango",
-			"guarnicao": "Virado de cenoura",
-			"salada": "Mix de folhas com frutas",
+			"date": "Quarta-feira - 26/09/2018",
+			"main_course": "Pernil ao molho shoyo com ervas",
+			"guarnicao": "Chuchu refogado",
+			"salada": "Mix de folhas com cenoura",
+			"acompanhamento": "Arroz branco e Tutu de feijao",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quinta-feira - 27/09/2018",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Batata com ervas",
+			"salada": "Alface, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Salada de frutas"
+		},
+		{
+			"date": "Sexta-feira - 28/09/2018",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa de abobrinha",
+			"salada": "Couve, vinagrete e rabanete",
+			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
 	]
