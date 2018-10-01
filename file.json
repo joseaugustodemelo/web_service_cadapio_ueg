@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 24/09/2018",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Cucuz com tomate",
-			"salada": "Acelga, tomate e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doces"
+			"date": "Segunda-feira - 01/10/2018",
+			"main_course": "Arroz Maria Isabel",
+			"guarnicao": "Cabutia refogada",
+			"salada": "Couve, tomate e pepino",
+			"acompanhamento": "Tutu de feijao",
+			"sobremesa": "Doce Sirio"
 		},
 		{
-			"date": "Terca-feira - 25/09/2018",
-			"main_course": "Carne de panela",
-			"guarnicao": "Pure de abobora",
-			"salada": "Alface, rucula e tomate",
+			"date": "Terca-feira - 02/10/2018",
+			"main_course": "Frango ao molho de acafrao",
+			"guarnicao": "Legumes salteados",
+			"salada": "Alface e tabule",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quarta-feira - 03/10/2018",
+			"main_course": "Linguica assada",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Alface, abacaxi e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Quarta-feira - 26/09/2018",
-			"main_course": "Pernil ao molho shoyo com ervas",
-			"guarnicao": "Chuchu refogado",
-			"salada": "Mix de folhas com cenoura",
-			"acompanhamento": "Arroz branco e Tutu de feijao",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quinta-feira - 27/09/2018",
-			"main_course": "Figado acebolado",
-			"guarnicao": "Batata com ervas",
-			"salada": "Alface, pepino e tomate",
+			"date": "Quinta-feira - 04/10/2018",
+			"main_course": "Peixe ao molho",
+			"guarnicao": "Pure de batatas",
+			"salada": "Alface, tomate e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Salada de frutas"
+			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Sexta-feira - 28/09/2018",
+			"date": "Sexta-feira - 05/10/2018",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de abobrinha",
-			"salada": "Couve, vinagrete e rabanete",
+			"guarnicao": "Farofa rica",
+			"salada": "Alface e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
