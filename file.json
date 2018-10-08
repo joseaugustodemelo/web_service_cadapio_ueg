@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 01/10/2018",
-			"main_course": "Arroz Maria Isabel",
+			"date": "Segunda-feira - 08/10/2018",
+			"main_course": "Carne ao molho ferrugem",
 			"guarnicao": "Cabutia refogada",
-			"salada": "Couve, tomate e pepino",
-			"acompanhamento": "Tutu de feijao",
-			"sobremesa": "Doce Sirio"
-		},
-		{
-			"date": "Terca-feira - 02/10/2018",
-			"main_course": "Frango ao molho de acafrao",
-			"guarnicao": "Legumes salteados",
-			"salada": "Alface e tabule",
+			"salada": "Repolho, tomate e pepino",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
+			"sobremesa": "Doce de Leite"
 		},
 		{
-			"date": "Quarta-feira - 03/10/2018",
-			"main_course": "Linguica assada",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Alface, abacaxi e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mamao"
-		},
-		{
-			"date": "Quinta-feira - 04/10/2018",
-			"main_course": "Peixe ao molho",
-			"guarnicao": "Pure de batatas",
-			"salada": "Alface, tomate e cenoura",
+			"date": "Terca-feira - 09/10/2018",
+			"main_course": "Almondega ao sugo",
+			"guarnicao": "Polenta",
+			"salada": "Alface, acelga e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Sexta-feira - 05/10/2018",
+			"date": "Quarta-feira - 10/10/2018",
+			"main_course": "Frango de casquinha",
+			"guarnicao": "Macarronada com queijo",
+			"salada": "Alface, tomate e frutas",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Doce de goiaba"
+		},
+		{
+			"date": "Quinta-feira - 11/10/2018",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
-			"salada": "Alface e vinagrete",
+			"guarnicao": "Virado de cenoura",
+			"salada": "Couve e vinagrete com azeitonas",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
+		},
+		{
+			"date": "Sexta-feira - 12/10/2018",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		}
 	]
 }
