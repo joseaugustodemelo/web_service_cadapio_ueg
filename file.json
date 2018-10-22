@@ -1,42 +1,42 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 15/10/2018",
-			"main_course": "Carne ao molho chines",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Acelga, brocolis e cenoura",
+			"date": "Segunda-feira - 22/10/2018",
+			"main_course": "Frango ao molho de acafrao",
+			"guarnicao": "Macarronada",
+			"salada": "Repolho, tomate e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de banana"
+			"sobremesa": "Mix de doces"
 		},
 		{
-			"date": "Terca-feira - 16/10/2018",
-			"main_course": "Carne de porco acebolada",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Couve e vinagrete",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mamao"
-		},
-		{
-			"date": "Quarta-feira - 17/10/2018",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Polenta",
-			"salada": "Mix de folhas com legumes",
+			"date": "Terca-feira - 23/10/2018",
+			"main_course": "Carne moida com pimentao e cenoura",
+			"guarnicao": "Legumes salteados",
+			"salada": "Alface, cenoura e pepino",
 			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Quarta-feira - 24/10/2018",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
+		},
+		{
+			"date": "Quinta-feira - 25/10/2018",
+			"main_course": "Linguica assada",
+			"guarnicao": "Pure de batata",
+			"salada": "Acelga, alface e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 18/10/2018",
-			"main_course": "Costela refogada desossada",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Repolho bicolor com tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Salada de frutas"
-		},
-		{
-			"date": "Sexta-feira - 19/10/2018",
-			"main_course": "Frango empando",
-			"guarnicao": "Pure de abobora",
-			"salada": "Alface, tomate e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Sexta-feira - 26/10/2018",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa crocrante",
+			"salada": "Couve, vinagrete com pepino",
+			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
 	]
