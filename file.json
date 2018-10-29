@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 22/10/2018",
-			"main_course": "Frango ao molho de acafrao",
-			"guarnicao": "Macarronada",
-			"salada": "Repolho, tomate e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doces"
-		},
-		{
-			"date": "Terca-feira - 23/10/2018",
-			"main_course": "Carne moida com pimentao e cenoura",
-			"guarnicao": "Legumes salteados",
-			"salada": "Alface, cenoura e pepino",
+			"date": "Segunda-feira - 29/10/2018",
+			"main_course": "Frango Xadrez",
+			"guarnicao": "Macarrao ao alho e oleo",
+			"salada": "Acelga, tomate e cenoura",
 			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Quarta-feira - 24/10/2018",
+			"date": "Terca-feira - 30/10/2018",
+			"main_course": "Lagarto ao molho madeira",
+			"guarnicao": "Batata saute",
+			"salada": "Folhas com frutas",
+			"acompanhamento": "Arroz branco e feija carioca",
+			"sobremesa": "Doce sirio"
+		},
+		{
+			"date": "Quarta-feira - 31/10/2018",
+			"main_course": "Galinhada completa",
+			"guarnicao": "Chuchu refogado",
+			"salada": "Alface, tomate e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quinta-feira - 01/11/2018",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa de banana",
+			"salada": "Couve e vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
+		},
+		{
+			"date": "Sexta-feira - 02/11/2018",
 			"main_course": "Feriado",
 			"guarnicao": "",
 			"salada": "",
 			"acompanhamento": "",
 			"sobremesa": ""
-		},
-		{
-			"date": "Quinta-feira - 25/10/2018",
-			"main_course": "Linguica assada",
-			"guarnicao": "Pure de batata",
-			"salada": "Acelga, alface e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Sexta-feira - 26/10/2018",
-			"main_course": "Feijoada",
-			"guarnicao": "Farofa crocrante",
-			"salada": "Couve, vinagrete com pepino",
-			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
 		}
 	]
 }
