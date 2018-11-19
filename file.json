@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 12/11/2018",
-			"main_course": "Carne moida a bolonhesa",
-			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Acelga, cenoura e laranja",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de goiaba"
-		},
-		{
-			"date": "Terca-feira - 13/11/2018",
-			"main_course": "Moela de frango ao molho",
-			"guarnicao": "Batata saute",
-			"salada": "Alface, repolho e tomate",
+			"date": "Segunda-feira - 19/11/2018",
+			"main_course": "Carne ao molho ferrugem",
+			"guarnicao": "Legumes salteados",
+			"salada": "Repolho, tomate e beterraba",
 			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Banana"
+			"sobremesa": "Mix de Doces"
 		},
 		{
-			"date": "Quarta-feira - 14/11/2018",
-			"main_course": "Linguica assada",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Couve, tomate e beterraba",
+			"date": "Terca-feira - 20/11/2018",
+			"main_course": "Carne suina ao molho com ervas",
+			"guarnicao": "Kabutia refogada",
+			"salada": "Acelga, laranja e cenoura",
+			"acompanhamento": "Arroz branco, feijao carioca",
+			"sobremesa": "Mamao"
+		},
+		{
+			"date": "Quarta-feira - 21/11/2018",
+			"main_course": "Kafita",
+			"guarnicao": "Batata com ervas",
+			"salada": "Alface e tabule",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Doce Sirio"
+		},
+		{
+			"date": "Quinta-feira - 22/11/2018",
+			"main_course": "Frango ao molho de acafrao",
+			"guarnicao": "Polenta",
+			"salada": "Alface, Repolho e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Quinta-feira - 15/11/2018",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
-		},
-		{
-			"date": "Sexta-feira - 16/11/2018",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Sexta-feira - 23/11/2018",
+			"main_course": "Feijoada",
+			"guarnicao": "Virado de abobora com ervas",
+			"salada": "Couve e vinagrete",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Laranja"
 		}
 	]
 }
