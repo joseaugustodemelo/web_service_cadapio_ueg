@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 19/11/2018",
-			"main_course": "Carne ao molho ferrugem",
-			"guarnicao": "Legumes salteados",
-			"salada": "Repolho, tomate e beterraba",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Mix de Doces"
-		},
-		{
-			"date": "Terca-feira - 20/11/2018",
-			"main_course": "Carne suina ao molho com ervas",
-			"guarnicao": "Kabutia refogada",
-			"salada": "Acelga, laranja e cenoura",
-			"acompanhamento": "Arroz branco, feijao carioca",
-			"sobremesa": "Mamao"
-		},
-		{
-			"date": "Quarta-feira - 21/11/2018",
-			"main_course": "Kafita",
-			"guarnicao": "Batata com ervas",
-			"salada": "Alface e tabule",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce Sirio"
-		},
-		{
-			"date": "Quinta-feira - 22/11/2018",
-			"main_course": "Frango ao molho de acafrao",
-			"guarnicao": "Polenta",
-			"salada": "Alface, Repolho e cenoura",
+			"date": "Segunda-feira - 26/11/2018",
+			"main_course": "Iscas de carne aceboladas",
+			"guarnicao": "Mandioca na manteiga",
+			"salada": "Acelga, tomate e pepino",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Sexta-feira - 23/11/2018",
-			"main_course": "Feijoada",
-			"guarnicao": "Virado de abobora com ervas",
-			"salada": "Couve e vinagrete",
+			"date": "Terca-feira - 27/11/2018",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Macarronada com queijo ralado",
+			"salada": "Repolho e tomate",
+			"acompanhamento": "Arroz branco, feijao carioca",
+			"sobremesa": "Doce de Leite"
+		},
+		{
+			"date": "Quarta-feira - 28/11/2018",
+			"main_course": "Fricasse de frango",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Mix de folhas com cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Laranja"
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quinta-feira - 29/11/2018",
+			"main_course": "Carne ao molho escuro",
+			"guarnicao": "Farofa de cenoura",
+			"salada": "Couve, vinagrete e rabanete",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Mamao"
+		},
+		{
+			"date": "Sexta-feira - 30/11/2018",
+			"main_course": "Frango na casquinha",
+			"guarnicao": "Chuchu com milho",
+			"salada": "Alface, acelga e brócolis",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Salada de frutas"
 		}
 	]
 }
