@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 26/11/2018",
-			"main_course": "Iscas de carne aceboladas",
-			"guarnicao": "Mandioca na manteiga",
-			"salada": "Acelga, tomate e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"date": "Segunda-feira - 03/12/2018",
+			"main_course": "Arroz Maria Izabel",
+			"guarnicao": "Creme de cabutia",
+			"salada": "Couve, tomate e pepino",
+			"acompanhamento": "Feijao carioca",
+			"sobremesa": "Doce Banana"
 		},
 		{
-			"date": "Terca-feira - 27/11/2018",
-			"main_course": "Figado acebolado",
-			"guarnicao": "Macarronada com queijo ralado",
-			"salada": "Repolho e tomate",
-			"acompanhamento": "Arroz branco, feijao carioca",
-			"sobremesa": "Doce de Leite"
-		},
-		{
-			"date": "Quarta-feira - 28/11/2018",
-			"main_course": "Fricasse de frango",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Mix de folhas com cenoura",
+			"date": "Terca-feira - 04/12/2018",
+			"main_course": "Frango Grelhado",
+			"guarnicao": "Polenta com quiabo",
+			"salada": "Alface e tabule",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 29/11/2018",
-			"main_course": "Carne ao molho escuro",
-			"guarnicao": "Farofa de cenoura",
-			"salada": "Couve, vinagrete e rabanete",
+			"date": "Quarta-feira - 05/15/2018",
+			"main_course": "Carne ao molho chines",
+			"guarnicao": "Dueto de legumes",
+			"salada": "Alface, abacaxi e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Quinta-feira - 06/12/2018",
+			"main_course": "Peixe a Moda Portuguesa",
+			"guarnicao": "Pirao de batata",
+			"salada": "Acelga, tomate e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Sexta-feira - 30/11/2018",
-			"main_course": "Frango na casquinha",
-			"guarnicao": "Chuchu com milho",
-			"salada": "Alface, acelga e brócolis",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Salada de frutas"
+			"date": "Sexta-feira - 07/12/2018",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa rica",
+			"salada": "Couve e vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
