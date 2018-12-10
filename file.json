@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 03/12/2018",
-			"main_course": "Arroz Maria Izabel",
-			"guarnicao": "Creme de cabutia",
-			"salada": "Couve, tomate e pepino",
-			"acompanhamento": "Feijao carioca",
-			"sobremesa": "Doce Banana"
-		},
-		{
-			"date": "Terca-feira - 04/12/2018",
-			"main_course": "Frango Grelhado",
-			"guarnicao": "Polenta com quiabo",
-			"salada": "Alface e tabule",
+			"date": "Segunda-feira - 10/12/2018",
+			"main_course": "Linguica assada",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Pepino e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
+			"sobremesa": "Doce Sirio"
 		},
 		{
-			"date": "Quarta-feira - 05/15/2018",
-			"main_course": "Carne ao molho chines",
-			"guarnicao": "Dueto de legumes",
-			"salada": "Alface, abacaxi e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
-		},
-		{
-			"date": "Quinta-feira - 06/12/2018",
-			"main_course": "Peixe a Moda Portuguesa",
-			"guarnicao": "Pirao de batata",
-			"salada": "Acelga, tomate e cenoura",
+			"date": "Terca-feira - 11/12/2018",
+			"main_course": "Frango xadrez",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Alface, acelga e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Sexta-feira - 07/12/2018",
-			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
-			"salada": "Couve e vinagrete",
-			"acompanhamento": "Arroz branco",
+			"date": "Quarta-feira - 12/15/2018",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Pure de batatas",
+			"salada": "Mix de folhas e frutas",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quinta-feira - 13/12/2018",
+			"main_course": "Frango assado com oregano",
+			"guarnicao": "Legumes salteados",
+			"salada": "Acelga, cenoura e brocolis",
+			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Laranja"
+		},
+		{
+			"date": "Sexta-feira - 14/12/2018",
+			"main_course": "Chester ao molho agredoce",
+			"guarnicao": "Farofa crocante",
+			"salada": "Salada tropical",
+			"acompanhamento": "Arroz a grega e feijao carioca",
+			"sobremesa": "Bombom"
 		}
 	]
 }
