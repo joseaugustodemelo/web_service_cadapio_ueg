@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 10/12/2018",
-			"main_course": "Linguica assada",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Pepino e cenoura",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce Sirio"
+			"date": "Segunda-feira - 31/12/2018",
+			"main_course": "Recesso",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		},
 		{
-			"date": "Terca-feira - 11/12/2018",
-			"main_course": "Frango xadrez",
-			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Alface, acelga e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mamao"
+			"date": "Terca-feira - 01/01/2019",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		},
 		{
-			"date": "Quarta-feira - 12/15/2018",
-			"main_course": "Figado acebolado",
-			"guarnicao": "Pure de batatas",
-			"salada": "Mix de folhas e frutas",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
+			"date": "Quarta-feira - 02/01/2019",
+			"main_course": "Recesso",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		},
 		{
-			"date": "Quinta-feira - 13/12/2018",
-			"main_course": "Frango assado com oregano",
-			"guarnicao": "Legumes salteados",
-			"salada": "Acelga, cenoura e brocolis",
+			"date": "Quinta-feira - 03/01/2019",
+			"main_course": "Lombo assado ao molho de cerveja",
+			"guarnicao": "Farofa de frutas cristalizaas",
+			"salada": "Alface e salpicao",
 			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Laranja"
+			"sobremesa": "Bombom"
 		},
 		{
-			"date": "Sexta-feira - 14/12/2018",
-			"main_course": "Chester ao molho agredoce",
-			"guarnicao": "Farofa crocante",
-			"salada": "Salada tropical",
-			"acompanhamento": "Arroz a grega e feijao carioca",
-			"sobremesa": "Bombom"
+			"date": "Sexta-feira - 04/01/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Virado de couve",
+			"salada": "Alface com vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
