@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 31/12/2018",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Segunda-feira - 07/01/2019",
+			"main_course": "Estrogonofe de frango",
+			"guarnicao": "Legumes salteados",
+			"salada": "Repolho e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Terca-feira - 01/01/2019",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Terca-feira - 08/01/2019",
+			"main_course": "Peixe a moda portuguesa",
+			"guarnicao": "Pirao",
+			"salada": "Acelga com brocolie e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quarta-feira - 02/01/2019",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quarta-feira - 09/01/2019",
+			"main_course": "Frango ao molho",
+			"guarnicao": "Chuchu com milho",
+			"salada": "Alface, cenoura e pepino",
+			"acompanhamento": "Arroz branco e tutut de feijao",
+			"sobremesa": "Doce de leite em pasta"
 		},
 		{
-			"date": "Quinta-feira - 03/01/2019",
-			"main_course": "Lombo assado ao molho de cerveja",
-			"guarnicao": "Farofa de frutas cristalizaas",
-			"salada": "Alface e salpicao",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Bombom"
-		},
-		{
-			"date": "Sexta-feira - 04/01/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Virado de couve",
+			"date": "Quinta-feira - 10/01/2019",
+			"main_course": "Carne de porco",
+			"guarnicao": "Batat ao molho de tomate",
 			"salada": "Alface com vinagrete",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Mamao"
+		},
+		{
+			"date": "Sexta-feira - 11/01/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa de cenoura",
+			"salada": "Couve, tomate e azeitonas",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
