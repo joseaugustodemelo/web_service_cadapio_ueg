@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 07/01/2019",
-			"main_course": "Estrogonofe de frango",
-			"guarnicao": "Legumes salteados",
-			"salada": "Repolho e cenoura",
+			"date": "Segunda-feira - 14/01/2019",
+			"main_course": "Carne moida a bolonhesa",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Acelga, laranja e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Doce de Goiba em tablete"
+		},
+		{
+			"date": "Terca-feira - 15/01/2019",
+			"main_course": "Moela de frango ao molho",
+			"guarnicao": "Batata saute",
+			"salada": "Acelga, repolho e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quarta-feira - 16/01/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Couve, tomate e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Terca-feira - 08/01/2019",
-			"main_course": "Peixe a moda portuguesa",
-			"guarnicao": "Pirao",
-			"salada": "Acelga com brocolie e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 09/01/2019",
+			"date": "Quinta-feira - 17/01/2019",
 			"main_course": "Frango ao molho",
-			"guarnicao": "Chuchu com milho",
-			"salada": "Alface, cenoura e pepino",
-			"acompanhamento": "Arroz branco e tutut de feijao",
-			"sobremesa": "Doce de leite em pasta"
-		},
-		{
-			"date": "Quinta-feira - 10/01/2019",
-			"main_course": "Carne de porco",
-			"guarnicao": "Batat ao molho de tomate",
-			"salada": "Alface com vinagrete",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Acelga, pepino e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Sexta-feira - 11/01/2019",
+			"date": "Sexta-feira - 18/01/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de cenoura",
-			"salada": "Couve, tomate e azeitonas",
+			"guarnicao": "Farofa crocrante",
+			"salada": "Alface, vinagrete e rabanete",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
+			"sobremesa": "Salada de frutas"
 		}
 	]
 }
