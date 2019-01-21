@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 14/01/2019",
-			"main_course": "Carne moida a bolonhesa",
-			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Acelga, laranja e cenoura",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de Goiba em tablete"
+			"date": "Segunda-feira - 21/01/2019",
+			"main_course": "Costela refogada desossada",
+			"guarnicao": "Batata com ervas",
+			"salada": "Repolho e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Mix de Doces"
 		},
 		{
-			"date": "Terca-feira - 15/01/2019",
-			"main_course": "Moela de frango ao molho",
-			"guarnicao": "Batata saute",
-			"salada": "Acelga, repolho e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
+			"date": "Terca-feira - 22/01/2019",
+			"main_course": "Frango assado",
+			"guarnicao": "Creme de cabutia com coco",
+			"salada": "Acelga, pepino e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quarta-feira - 16/01/2019",
-			"main_course": "Linguica assada",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Couve, tomate e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
-		},
-		{
-			"date": "Quinta-feira - 17/01/2019",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Acelga, pepino e cenoura",
+			"date": "Quarta-feira - 23/01/2019",
+			"main_course": "Almondega ao molho sugo",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Mix de folhas com cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Sexta-feira - 18/01/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Farofa crocrante",
-			"salada": "Alface, vinagrete e rabanete",
-			"acompanhamento": "Arroz branco",
+			"date": "Quinta-feira - 24/01/2019",
+			"main_course": "Frango ao molho",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Acelga, pepino e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Salada de frutas"
+		},
+		{
+			"date": "Sexta-feira - 25/01/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa de cenoura",
+			"salada": "Couve e vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
