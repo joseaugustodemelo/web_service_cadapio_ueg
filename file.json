@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 21/01/2019",
-			"main_course": "Costela refogada desossada",
-			"guarnicao": "Batata com ervas",
+			"date": "Segunda-feira - 28/01/2019",
+			"main_course": "Bife de panela",
+			"guarnicao": "Pure de batata",
 			"salada": "Repolho e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Mix de Doces"
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Terca-feira - 22/01/2019",
-			"main_course": "Frango assado",
-			"guarnicao": "Creme de cabutia com coco",
+			"date": "Terca-feira - 29/01/2019",
+			"main_course": "Frango ao molho chines",
+			"guarnicao": "Cenoura com repolho",
 			"salada": "Acelga, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quarta-feira - 23/01/2019",
-			"main_course": "Almondega ao molho sugo",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Mix de folhas com cenoura",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Quarta-feira - 30/01/2019",
+			"main_course": "Carne moida com cebola e pimentao",
+			"guarnicao": "Macarronada",
+			"salada": "Alface, abacaxi e cenoura",
+			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Mamao"
 		},
 		{
-			"date": "Quinta-feira - 24/01/2019",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Acelga, pepino e beterraba",
+			"date": "Quinta-feira - 31/01/2019",
+			"main_course": "Frango de casquinha",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Acelga, tomate e brocolis",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Salada de frutas"
+			"sobremesa": "Doce de leite"
 		},
 		{
-			"date": "Sexta-feira - 25/01/2019",
+			"date": "Sexta-feira - 01/02/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de cenoura",
-			"salada": "Couve e vinagrete",
+			"guarnicao": "Farofa de banana",
+			"salada": "Couve e vinagrete com rabanete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
