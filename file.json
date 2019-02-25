@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 18/02/2019",
-			"main_course": "Arroz Maria Izabel",
-			"guarnicao": "Kabutia refogada",
-			"salada": "Acelga, Pepino Beterraba",
-			"acompanhamento": "Feijao carioca",
-			"sobremesa": "Goiabada em tablete"
-		},
-		{
-			"date": "Terca-feira - 19/02/2019",
-			"main_course": "Frango grelhado com ervas",
-			"guarnicao": "Polenta com quiabo",
-			"salada": "Alface e tabule",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 20/02/2019",
-			"main_course": "Figado acebolado",
-			"guarnicao": "Couve com laranja e tomate",
-			"salada": "Couve com laranja e tomate",
+			"date": "Segunda-feira - 25/02/2019",
+			"main_course": "Frango Xadrez",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Acelga, abacaxi e Beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Quinta-feira - 21/02/2019",
-			"main_course": "Carne ao molho chinês",
-			"guarnicao": "Legumes salteados",
-			"salada": "Mix de folhas com cenoura",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Mamao"
+			"date": "Terca-feira - 26/02/2019",
+			"main_course": "Peixe a moda portuguesa",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Repolho, tomate e couve",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Laranja"
 		},
 		{
-			"date": "Sexta-feira - 22/02/2019",
+			"date": "Quarta-feira - 27/02/2019",
+			"main_course": "Carne ao molho madeira",
+			"guarnicao": "Batata Saute",
+			"salada": "Salada tropical",
+			"acompanhamento": "Arroz com cenoura e tutu de feijao",
+			"sobremesa": "Mix de doces"
+		},
+		{
+			"date": "Quinta-feira - 28/02/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Quibebe de mandioca com acafrao",
+			"salada": "Alface, tomate e pepino",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Sexta-feira - 01/03/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa Rica",
-			"salada": "Couve com vinagrete",
+			"guarnicao": "Virado de banana",
+			"salada": "Couve, vinagrete com azeitonas",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Dueto de frutas"
+			"sobremesa": "Mamao"
 		}
 	]
 }
