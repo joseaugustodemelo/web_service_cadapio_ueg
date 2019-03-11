@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 04/03/2019",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Segunda-feira - 11/03/2019",
+			"main_course": "Bife de panela",
+			"guarnicao": "Cenouar com chuchu",
+			"salada": "Acelga, tomate e laranja",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Fruta"
 		},
 		{
-			"date": "Terca-feira - 05/03/2019",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Terca-feira - 12/03/2019",
+			"main_course": "Pernil ao shoyo com ervas",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Repolho e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Fruta"
 		},
 		{
-			"date": "Quarta-feira - 06/03/2019",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quarta-feira - 13/03/2019",
+			"main_course": "Almondega ao molho de tomate",
+			"guarnicao": "Macarrao primavera",
+			"salada": "Acelga, rucula e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Fruta"
 		},
 		{
-			"date": "Quinta-feira - 07/03/2019",
-			"main_course": "Restaurante Fechado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quinta-feira - 14/03/2019",
+			"main_course": "Frango ao molho de acafrao",
+			"guarnicao": "Polenta com jilo",
+			"salada": "Alface, pepino e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Doce em pasta"
 		},
 		{
-			"date": "Sexta-feira - 08/03/2019",
-			"main_course": "Restaurante Fechado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Sexta-feira - 15/03/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Virado de farofa",
+			"salada": "Couve e vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
