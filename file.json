@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 11/03/2019",
-			"main_course": "Bife de panela",
-			"guarnicao": "Cenouar com chuchu",
-			"salada": "Acelga, tomate e laranja",
+			"date": "Segunda-feira - 18/03/2019",
+			"main_course": "Costela refogada desossada",
+			"guarnicao": "Batata doce saute",
+			"salada": "Acelga, tomate e pepino",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Mix de doces"
+		},
+		{
+			"date": "Terca-feira - 19/03/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Repolho bicolor e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Fruta"
 		},
 		{
-			"date": "Terca-feira - 12/03/2019",
-			"main_course": "Pernil ao shoyo com ervas",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Repolho e tomate",
+			"date": "Quarta-feira - 20/03/2019",
+			"main_course": "Estrogonofe de frango",
+			"guarnicao": "Dueto de legumes",
+			"salada": "Mix de folhas com cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Fruta"
 		},
 		{
-			"date": "Quarta-feira - 13/03/2019",
-			"main_course": "Almondega ao molho de tomate",
-			"guarnicao": "Macarrao primavera",
-			"salada": "Acelga, rucula e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Fruta"
-		},
-		{
-			"date": "Quinta-feira - 14/03/2019",
-			"main_course": "Frango ao molho de acafrao",
-			"guarnicao": "Polenta com jilo",
-			"salada": "Alface, pepino e tomate",
+			"date": "Quinta-feira - 21/03/2019",
+			"main_course": "Peixe empanado ou ao molho",
+			"guarnicao": "Creme de cabutia",
+			"salada": "Couve, beterraba e tomate",
 			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Doce em pasta"
+			"sobremesa": "Fruta"
 		},
 		{
-			"date": "Sexta-feira - 15/03/2019",
+			"date": "Sexta-feira - 22/03/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de farofa",
-			"salada": "Couve e vinagrete",
+			"guarnicao": "Virado de couve",
+			"salada": "Alface, tomate e cebola",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
+			"sobremesa": "Fruta"
 		}
 	]
 }
