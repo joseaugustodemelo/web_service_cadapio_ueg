@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 18/03/2019",
-			"main_course": "Costela refogada desossada",
-			"guarnicao": "Batata doce saute",
-			"salada": "Acelga, tomate e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doces"
-		},
-		{
-			"date": "Terca-feira - 19/03/2019",
-			"main_course": "Linguica assada",
-			"guarnicao": "Quibebe de mandioca",
+			"date": "Segunda-feira - 25/03/2019",
+			"main_course": "Bobo de carne",
+			"guarnicao": "Cucuz",
 			"salada": "Repolho bicolor e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Fruta"
+			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quarta-feira - 20/03/2019",
-			"main_course": "Estrogonofe de frango",
-			"guarnicao": "Dueto de legumes",
-			"salada": "Mix de folhas com cenoura",
+			"date": "Terca-feira - 26/03/2019",
+			"main_course": "Isca de frango de casquinha",
+			"guarnicao": "Creme de milho",
+			"salada": "Acelga, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Fruta"
+			"sobremesa": "Goiabada"
 		},
 		{
-			"date": "Quinta-feira - 21/03/2019",
-			"main_course": "Peixe empanado ou ao molho",
-			"guarnicao": "Creme de cabutia",
-			"salada": "Couve, beterraba e tomate",
+			"date": "Quarta-feira - 27/03/2019",
+			"main_course": "Carne suina ao molho de ervas",
+			"guarnicao": "Virado de cenoura",
+			"salada": "Repolho, acelga e laranja",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Maca"
+		},
+		{
+			"date": "Quinta-feira - 28/03/2019",
+			"main_course": "Frango ao molho",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Alfece, beterraba e tomate",
 			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Fruta"
+			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Sexta-feira - 22/03/2019",
+			"date": "Sexta-feira - 29/03/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de couve",
-			"salada": "Alface, tomate e cebola",
+			"guarnicao": "Farofa crocante",
+			"salada": "Couve e vinagrete",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Fruta"
+			"sobremesa": "Laranja"
 		}
 	]
 }
