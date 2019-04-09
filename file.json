@@ -1,40 +1,40 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 01/04/2019",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Polenta com quiabo",
-			"salada": "Alface, cenoura e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Pacoca"
-		},
-		{
-			"date": "Terca-feira - 02/04/2019",
-			"main_course": "Estrogonofe de carne",
-			"guarnicao": "Batata saute",
-			"salada": "Alface, espinafre e repolho",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 03/04/2019",
-			"main_course": "Bife bovino ao molho escuro",
-			"guarnicao": "Farofa de cenoura",
-			"salada": "Couve, tomate e laranja",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
-		},
-		{
-			"date": "Quinta-feira - 04/04/2019",
-			"main_course": "Carne de porco acebolada",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Acelga, rabanete e tomate",
+			"date": "Segunda-feira - 08/04/2019",
+			"main_course": "Galinhada",
+			"guarnicao": "Creme de abobora com coco",
+			"salada": "Acelga, tomate e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 05/04/2019",
+			"date": "Terca-feira - 09/04/2019",
+			"main_course": "Carne suina ao molho de laranja",
+			"guarnicao": "Cuscuz com tomate e cebola",
+			"salada": "Alface, acelga, maca e repolho",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Pacoca"
+		},
+		{
+			"date": "Quarta-feira - 10/04/2019",
+			"main_course": "Carne moida com cenoura e vagem",
+			"guarnicao": "Pure de batata doce",
+			"salada": "Repolho bicolor e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Quinta-feira - 11/04/2019",
+			"main_course": "Frango xadrez",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Acelga, cenoura e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana caramelada"
+		},
+		{
+			"date": "Sexta-feira - 12/04/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado",
+			"guarnicao": "Farora rica",
 			"salada": "Couve e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
