@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 08/04/2019",
-			"main_course": "Galinhada",
-			"guarnicao": "Creme de abobora com coco",
-			"salada": "Acelga, tomate e beterraba",
+			"date": "Segunda-feira - 22/04/2019",
+			"main_course": "Figado Acebolado",
+			"guarnicao": "Cucuz com tomate e cebola",
+			"salada": "Acelga, tomate e pepino",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Terca-feira - 09/04/2019",
-			"main_course": "Carne suina ao molho de laranja",
-			"guarnicao": "Cuscuz com tomate e cebola",
-			"salada": "Alface, acelga, maca e repolho",
+			"date": "Terca-feira - 23/04/2019",
+			"main_course": "Frango de casquinha",
+			"guarnicao": "Pure de batatas",
+			"salada": "Alface, almeraoe beterraba",
 			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quarta-feira - 24/04/2019",
+			"main_course": "Almodega bovinaao molho escuro",
+			"guarnicao": "Macarrao ao molho sugo",
+			"salada": "Couve com laranja e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Quarta-feira - 10/04/2019",
-			"main_course": "Carne moida com cenoura e vagem",
-			"guarnicao": "Pure de batata doce",
-			"salada": "Repolho bicolor e tomate",
+			"date": "Quinta-feira - 25/04/2019",
+			"main_course": "Bife suino grelhado",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Acelga, cenoura e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Melancia"
 		},
 		{
-			"date": "Quinta-feira - 11/04/2019",
-			"main_course": "Frango xadrez",
-			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Acelga, cenoura e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana caramelada"
-		},
-		{
-			"date": "Sexta-feira - 12/04/2019",
+			"date": "Sexta-feira - 26/04/2019",
 			"main_course": "Feijoada",
 			"guarnicao": "Farora rica",
-			"salada": "Couve e vinagrete",
+			"salada": "Alface e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
