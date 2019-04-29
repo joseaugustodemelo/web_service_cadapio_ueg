@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 22/04/2019",
-			"main_course": "Figado Acebolado",
-			"guarnicao": "Cucuz com tomate e cebola",
-			"salada": "Acelga, tomate e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Maca"
-		},
-		{
-			"date": "Terca-feira - 23/04/2019",
-			"main_course": "Frango de casquinha",
-			"guarnicao": "Pure de batatas",
-			"salada": "Alface, almeraoe beterraba",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 24/04/2019",
-			"main_course": "Almodega bovinaao molho escuro",
-			"guarnicao": "Macarrao ao molho sugo",
-			"salada": "Couve com laranja e tomate",
+			"date": "Segunda-feira - 29/04/2019",
+			"main_course": "Carne ao molho madeira",
+			"guarnicao": "Venoura com chuchu",
+			"salada": "Alface, tomate e abacaxi",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Quinta-feira - 25/04/2019",
-			"main_course": "Bife suino grelhado",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Acelga, cenoura e tomate",
+			"date": "Terca-feira - 30/04/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Repolho, acelga e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 26/04/2019",
+			"date": "Quarta-feira - 01/05/2019",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
+		},
+		{
+			"date": "Quinta-feira - 02/05/2019",
+			"main_course": "Carnoe de panela",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Repolho bicolor e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Sexta-feira - 03/05/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farora rica",
-			"salada": "Alface e vinagrete",
+			"guarnicao": "Virado de banan",
+			"salada": "Alface, tomate e cebola",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
