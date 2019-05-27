@@ -1,40 +1,40 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 29/04/2019",
-			"main_course": "Carne ao molho madeira",
-			"guarnicao": "Venoura com chuchu",
-			"salada": "Alface, tomate e abacaxi",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Pacoca"
-		},
-		{
-			"date": "Terca-feira - 30/04/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Repolho, acelga e tomate",
+			"date": "Segunda-feira - 27/05/2019",
+			"main_course": "Carne bovina de panela",
+			"guarnicao": "Cenoura com batata inglesa",
+			"salada": "Acelga, almerão e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Quarta-feira - 01/05/2019",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
-		},
-		{
-			"date": "Quinta-feira - 02/05/2019",
-			"main_course": "Carnoe de panela",
-			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Repolho bicolor e cenoura",
+			"date": "Terca-feira - 28/05/2019",
+			"main_course": "Carne suina ao molho de laranja",
+			"guarnicao": "Virado e couve a mineira",
+			"salada": "Repolho bicolor e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Sexta-feira - 03/05/2019",
+			"date": "Quarta-feira - 29/05/2019",
+			"main_course": "Frango grelhado",
+			"guarnicao": "Polenta com jilo",
+			"salada": "Alface, chicoria e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Quinta-feira - 30/05/2019",
+			"main_course": "Moela de frango acebolado",
+			"guarnicao": "Repolho com cenoura",
+			"salada": "Alface, acelga, rucula e laranja",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Mix de doces"
+		},
+		{
+			"date": "Sexta-feira - 31/05/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de banan",
+			"guarnicao": "Farofa de abobrinha",
 			"salada": "Alface, tomate e cebola",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
