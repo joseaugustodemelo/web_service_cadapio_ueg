@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 03/06/2019",
-			"main_course": "Bobo de carne",
-			"guarnicao": "Cuscuz",
-			"salada": "Repolho, beterraba e tomate",
+			"date": "Segunda-feira - 10/06/2019",
+			"main_course": "Estrogonofe de carne",
+			"guarnicao": "Batata saute",
+			"salada": "Repolho, beterraba e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Maca"
-		},
-		{
-			"date": "Terca-feira - 04/06/2019",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Polenta com quiabo",
-			"salada": "Alface, cenoura e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Pacoca"
-		},
-		{
-			"date": "Quarta-feira - 05/06/2019",
-			"main_course": "Carne suina ao molho com ervas",
-			"guarnicao": "Virado de cenoura",
-			"salada": "Mix de folhas com beterraba",
-			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 06/06/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Alface e tomate",
+			"date": "Terca-feira - 11/06/2019",
+			"main_course": "Isca de frango na casquinha",
+			"guarnicao": "Pure de inhame com beterraba",
+			"salada": "Acelga, tomate e pepino",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"sobremesa": "Doce de goiaba"
 		},
 		{
-			"date": "Sexta-feira - 07/06/2019",
+			"date": "Quarta-feira - 12/06/2019",
+			"main_course": "Bife bovino ao molho escuro",
+			"guarnicao": "Repolho e cenoura",
+			"salada": "Couve, laranja e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Maca"
+		},
+		{
+			"date": "Quinta-feira - 13/06/2019",
+			"main_course": "Arroz com carne de porco",
+			"guarnicao": "virado de couve à mineira",
+			"salada": "Couve, laranja e tomate",
+			"acompanhamento": "Tutu de feijao",
+			"sobremesa": "Doce de abobora"
+		},
+		{
+			"date": "Sexta-feira - 14/06/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa crocante",
-			"salada": "Couve e vinagrete",
+			"guarnicao": "Farofa rica",
+			"salada": "Alface, chicoria e cenoura",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
