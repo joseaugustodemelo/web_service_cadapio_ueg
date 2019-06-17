@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 10/06/2019",
-			"main_course": "Estrogonofe de carne",
-			"guarnicao": "Batata saute",
-			"salada": "Repolho, beterraba e cenoura",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Segunda-feira - 17/06/2019",
+			"main_course": "Galinhada",
+			"guarnicao": "Macarrao ao molho sugo",
+			"salada": "Acelga, tomate e beterraba",
+			"acompanhamento": "Feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Terca-feira - 11/06/2019",
-			"main_course": "Isca de frango na casquinha",
-			"guarnicao": "Pure de inhame com beterraba",
-			"salada": "Acelga, tomate e pepino",
+			"date": "Terca-feira - 18/06/2019",
+			"main_course": "Estrogonofe de moela de frango",
+			"guarnicao": "Repolho com cenoura",
+			"salada": "Dueto de folhas com pepino e fruta",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de goiaba"
+			"sobremesa": "Mix de doce"
 		},
 		{
-			"date": "Quarta-feira - 12/06/2019",
-			"main_course": "Bife bovino ao molho escuro",
-			"guarnicao": "Repolho e cenoura",
-			"salada": "Couve, laranja e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Maca"
+			"date": "Quarta-feira - 19/06/2019",
+			"main_course": "Carne moida com cenoura e vagem",
+			"guarnicao": "Pure de inhame",
+			"salada": "Acelga, rabanete e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "laranja"
 		},
 		{
-			"date": "Quinta-feira - 13/06/2019",
-			"main_course": "Arroz com carne de porco",
-			"guarnicao": "virado de couve à mineira",
-			"salada": "Couve, laranja e tomate",
-			"acompanhamento": "Tutu de feijao",
-			"sobremesa": "Doce de abobora"
+			"date": "Quinta-feira - 20/06/2019",
+			"main_course": "Fereiado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		},
 		{
-			"date": "Sexta-feira - 14/06/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
-			"salada": "Alface, chicoria e cenoura",
-			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
+			"date": "Sexta-feira - 21/06/2019",
+			"main_course": "Recesso",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		}
 	]
 }
