@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 17/06/2019",
-			"main_course": "Galinhada",
-			"guarnicao": "Macarrao ao molho sugo",
-			"salada": "Acelga, tomate e beterraba",
-			"acompanhamento": "Feijao carioca",
+			"date": "Segunda-feira - 24/06/2019",
+			"main_course": "Carne ao molho ferrugem",
+			"guarnicao": "Farofa de cenoura",
+			"salada": "Repolho, tomate e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Terca-feira - 18/06/2019",
-			"main_course": "Estrogonofe de moela de frango",
-			"guarnicao": "Repolho com cenoura",
-			"salada": "Dueto de folhas com pepino e fruta",
+			"date": "Terca-feira - 25/06/2019",
+			"main_course": "Iscas de frango acebolado",
+			"guarnicao": "Dueto de legumes ao molho branco",
+			"salada": "Mix de folhas e tomates",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mix de doce"
 		},
 		{
-			"date": "Quarta-feira - 19/06/2019",
-			"main_course": "Carne moida com cenoura e vagem",
-			"guarnicao": "Pure de inhame",
-			"salada": "Acelga, rabanete e tomate",
+			"date": "Quarta-feira - 26/06/2019",
+			"main_course": "Carne bovina de panela",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Acelga, almeirao e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "laranja"
+			"sobremesa": "Salada de frutas"
 		},
 		{
-			"date": "Quinta-feira - 20/06/2019",
-			"main_course": "Fereiado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quinta-feira - 27/06/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Pirao com legumes",
+			"salada": "Acelga, repolho e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 21/06/2019",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Sexta-feira - 28/06/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa de abobrinha com ovos",
+			"salada": "Alface, tomate e cebola",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
