@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 24/06/2019",
-			"main_course": "Carne ao molho ferrugem",
-			"guarnicao": "Farofa de cenoura",
-			"salada": "Repolho, tomate e beterraba",
+			"date": "Segunda-feira - 01/07/2019",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Macarrao ao molho sugo",
+			"salada": "Couve, laranja e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Doce em tablete"
+		},
+		{
+			"date": "Terca-feira - 02/07/2019",
+			"main_course": "Bife suino grelhado",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Acelga, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Terca-feira - 25/06/2019",
-			"main_course": "Iscas de frango acebolado",
-			"guarnicao": "Dueto de legumes ao molho branco",
-			"salada": "Mix de folhas e tomates",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doce"
-		},
-		{
-			"date": "Quarta-feira - 26/06/2019",
-			"main_course": "Carne bovina de panela",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Acelga, almeirao e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Salada de frutas"
-		},
-		{
-			"date": "Quinta-feira - 27/06/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pirao com legumes",
-			"salada": "Acelga, repolho e cenoura",
+			"date": "Quarta-feira - 03/07/2019",
+			"main_course": "Coxa e sobrecoxa de frango na casquinha",
+			"guarnicao": "Pure de batata doce",
+			"salada": "Alface, almeirao e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 28/06/2019",
+			"date": "Quinta-feira - 04/07/2019",
+			"main_course": "Almondega bovina ao molho escuro",
+			"guarnicao": "Cuscuz com tomate e cebola",
+			"salada": "Acelga, tomate e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Sexta-feira - 05/07/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de abobrinha com ovos",
-			"salada": "Alface, tomate e cebola",
+			"guarnicao": "Farofa rica",
+			"salada": "Alface e vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
