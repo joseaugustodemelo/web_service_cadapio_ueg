@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 01/07/2019",
-			"main_course": "Figado acebolado",
-			"guarnicao": "Macarrao ao molho sugo",
-			"salada": "Couve, laranja e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Doce em tablete"
-		},
-		{
-			"date": "Terca-feira - 02/07/2019",
-			"main_course": "Bife suino grelhado",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Acelga, pepino e tomate",
+			"date": "Segunda-feira - 08/07/2019",
+			"main_course": "Carne ao molho madeira",
+			"guarnicao": "Cenoura com chuchu",
+			"salada": "Acelga, abacaxi e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
+			"sobremesa": "Doce de banana"
 		},
 		{
-			"date": "Quarta-feira - 03/07/2019",
-			"main_course": "Coxa e sobrecoxa de frango na casquinha",
-			"guarnicao": "Pure de batata doce",
-			"salada": "Alface, almeirao e beterraba",
+			"date": "Terca-feira - 09/07/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Creme de abobora com leite de coco",
+			"salada": "Mix de folhas com tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Quinta-feira - 04/07/2019",
-			"main_course": "Almondega bovina ao molho escuro",
-			"guarnicao": "Cuscuz com tomate e cebola",
-			"salada": "Acelga, tomate e cenoura",
+			"date": "Quarta-feira - 10/07/2019",
+			"main_course": "Frango xadrez",
+			"guarnicao": "Macarrao ao alho e oleo",
+			"salada": "Cenoura, tomate e acelga",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"sobremesa": "Banana caramelada"
 		},
 		{
-			"date": "Sexta-feira - 05/07/2019",
+			"date": "Quinta-feira - 11/07/2019",
+			"main_course": "Carne bovina de panela",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Repolho bicolor e cenoura",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Sexta-feira - 12/07/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
-			"salada": "Alface e vinagrete",
+			"guarnicao": "Virado de banana",
+			"salada": "Alface, tomate e cebola",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
