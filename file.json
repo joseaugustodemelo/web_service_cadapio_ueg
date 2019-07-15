@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 08/07/2019",
-			"main_course": "Carne ao molho madeira",
-			"guarnicao": "Cenoura com chuchu",
-			"salada": "Acelga, abacaxi e tomate",
+			"date": "Segunda-feira - 15/07/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Cara ao molho de acafrao",
+			"salada": "Repolho, chicoria e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Doce de banana"
+			"sobremesa": "Mix de doces"
 		},
 		{
-			"date": "Terca-feira - 09/07/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Creme de abobora com leite de coco",
-			"salada": "Mix de folhas com tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Maca"
+			"date": "Terca-feira - 16/07/2019",
+			"main_course": "Estrogonofe de moela de frango",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Alface, tomate e abacaxi",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Mexerica"
 		},
 		{
-			"date": "Quarta-feira - 10/07/2019",
-			"main_course": "Frango xadrez",
-			"guarnicao": "Macarrao ao alho e oleo",
-			"salada": "Cenoura, tomate e acelga",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana caramelada"
-		},
-		{
-			"date": "Quinta-feira - 11/07/2019",
-			"main_course": "Carne bovina de panela",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Repolho bicolor e cenoura",
+			"date": "Quarta-feira - 17/07/2019",
+			"main_course": "Fricasse de frango",
+			"guarnicao": "Batata doce assada com ervas",
+			"salada": "Alface, acelga e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Sexta-feira - 12/07/2019",
+			"date": "Quinta-feira - 18/07/2019",
+			"main_course": "Lagarto de panela",
+			"guarnicao": "Chuchu com cenoura",
+			"salada": "Dueto de folhas e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Salada de frutas"
+		},
+		{
+			"date": "Sexta-feira - 19/07/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de banana",
-			"salada": "Alface, tomate e cebola",
+			"guarnicao": "Cuscuz temperado",
+			"salada": "Alface, tomate e rabanete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
