@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 15/07/2019",
-			"main_course": "Linguica assada",
-			"guarnicao": "Cara ao molho de acafrao",
-			"salada": "Repolho, chicoria e cenoura",
+			"date": "Segunda-feira - 22/07/2019",
+			"main_course": "Carne moida ao molho sugo",
+			"guarnicao": "Polenta com jilo",
+			"salada": "Repolho, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doces"
+			"sobremesa": "Macas"
 		},
 		{
-			"date": "Terca-feira - 16/07/2019",
-			"main_course": "Estrogonofe de moela de frango",
+			"date": "Terca-feira - 23/07/2019",
+			"main_course": "Frango xadrez",
 			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Alface, tomate e abacaxi",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Mexerica"
-		},
-		{
-			"date": "Quarta-feira - 17/07/2019",
-			"main_course": "Fricasse de frango",
-			"guarnicao": "Batata doce assada com ervas",
-			"salada": "Alface, acelga e beterraba",
+			"salada": "Brocolis, tomate e acelga",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 18/07/2019",
-			"main_course": "Lagarto de panela",
-			"guarnicao": "Chuchu com cenoura",
-			"salada": "Dueto de folhas e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Quarta-feira - 24/07/2019",
+			"main_course": "Carne de porco acebolada",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Acelga, rucula e cenoura",
+			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Salada de frutas"
 		},
 		{
-			"date": "Sexta-feira - 19/07/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Cuscuz temperado",
-			"salada": "Alface, tomate e rabanete",
-			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
+			"date": "Quinta-feira - 25/07/2019",
+			"main_course": "Recesso",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
+		},
+		{
+			"date": "Sexta-feira - 26/07/2019",
+			"main_course": "Recesso",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		}
 	]
 }
