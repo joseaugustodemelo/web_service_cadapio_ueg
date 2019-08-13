@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 05/08/2019",
-			"main_course": "Frango xadrez",
-			"guarnicao": "Macarrao alho e oleo",
-			"salada": "Acelga, laranja e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Segunda-feira - 12/08/2019",
+			"main_course": "Bife bovino ao molho escuro",
+			"guarnicao": "Cuscuz",
+			"salada": "Repolho, tomate e beterraba",
+			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Terca-feira - 06/08/2019",
-			"main_course": "Almondega ao molho sugo",
-			"guarnicao": "Repolho com cenoura",
-			"salada": "Alface, couve e pepino",
+			"date": "Terca-feira - 13/08/2019",
+			"main_course": "Iscas de frango acebolado",
+			"guarnicao": "Dueto de legumees com molho branco",
+			"salada": "Alface e tabule",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mexirica"
+			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Quarta-feira - 07/08/2019",
-			"main_course": "Galinhada",
-			"guarnicao": "Chuchu refogado",
-			"salada": "Repolho, beterraba e tomate",
+			"date": "Quarta-feira - 14/08/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Mandioca cremosa com acafrao",
+			"salada": "Couve, cenoura e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"sobremesa": "Mexerica"
 		},
 		{
-			"date": "Quinta-feira - 08/08/2019",
-			"main_course": "Lagarto de panela",
-			"guarnicao": "Batata com ervas",
-			"salada": "Salada tropical",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Gelatina"
+			"date": "Quinta-feira - 15/08/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Pure de batata doce",
+			"salada": "Repolho bicolor e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 09/08/2019",
+			"date": "Sexta-feira - 16/08/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de banana",
-			"salada": "Couve, vinagrete e rabanete",
+			"guarnicao": "Farofa rica",
+			"salada": "Alface, tomate e pepino",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
