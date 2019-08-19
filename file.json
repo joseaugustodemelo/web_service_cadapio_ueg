@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 12/08/2019",
-			"main_course": "Bife bovino ao molho escuro",
-			"guarnicao": "Cuscuz",
-			"salada": "Repolho, tomate e beterraba",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Terca-feira - 13/08/2019",
-			"main_course": "Iscas de frango acebolado",
-			"guarnicao": "Dueto de legumees com molho branco",
-			"salada": "Alface e tabule",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Segunda-feira - 19/08/2019",
+			"main_course": "Arroz com carne suina",
+			"guarnicao": "Macorronada",
+			"salada": "Acelga e tomate",
+			"acompanhamento": "feijao carioca",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Quarta-feira - 14/08/2019",
-			"main_course": "Linguica assada",
-			"guarnicao": "Mandioca cremosa com acafrao",
-			"salada": "Couve, cenoura e tomate",
+			"date": "Terca-feira - 20/08/2019",
+			"main_course": "Estrogonofe de moela de frango",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Mix de folhas, laranja e pepino",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "BAnana"
+		},
+		{
+			"date": "Quarta-feira - 21/08/2019",
+			"main_course": "Carne moida com cenoura e vagem",
+			"guarnicao": "Pure de inhame ou cara com acafrao",
+			"salada": "Repolho e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Mexerica"
 		},
 		{
-			"date": "Quinta-feira - 15/08/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pure de batata doce",
-			"salada": "Repolho bicolor e tomate",
+			"date": "Quinta-feira - 22/08/2019",
+			"main_course": "Coxa e sobrecoxa assada",
+			"guarnicao": "Polenta com jilo",
+			"salada": "Alface, abaxie e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 16/08/2019",
+			"date": "Sexta-feira - 23/08/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
-			"salada": "Alface, tomate e pepino",
+			"guarnicao": "Farofa crocante",
+			"salada": "Couve, vinagrete e azeitonas",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
