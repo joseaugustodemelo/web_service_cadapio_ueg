@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 19/08/2019",
-			"main_course": "Arroz com carne suina",
-			"guarnicao": "Macorronada",
-			"salada": "Acelga e tomate",
-			"acompanhamento": "feijao carioca",
-			"sobremesa": "Pacoca"
-		},
-		{
-			"date": "Terca-feira - 20/08/2019",
-			"main_course": "Estrogonofe de moela de frango",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Mix de folhas, laranja e pepino",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "BAnana"
-		},
-		{
-			"date": "Quarta-feira - 21/08/2019",
-			"main_course": "Carne moida com cenoura e vagem",
-			"guarnicao": "Pure de inhame ou cara com acafrao",
-			"salada": "Repolho e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mexerica"
-		},
-		{
-			"date": "Quinta-feira - 22/08/2019",
-			"main_course": "Coxa e sobrecoxa assada",
-			"guarnicao": "Polenta com jilo",
-			"salada": "Alface, abaxie e beterraba",
+			"date": "Segunda-feira - 26/08/2019",
+			"main_course": "Carne ao molho ferrugem",
+			"guarnicao": "Virado de banana",
+			"salada": "Repolho, cenoura e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Sexta-feira - 23/08/2019",
+			"date": "Terca-feira - 27/08/2019",
+			"main_course": "File de frango empanado",
+			"guarnicao": "Abobrinha refogada",
+			"salada": "Dueto de legumes ao molho branco",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Quarta-feira - 28/08/2019",
+			"main_course": "Costela refogada desossada",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Couve, agriao e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Salada de frutas"
+		},
+		{
+			"date": "Quinta-feira - 29/08/2019",
+			"main_course": "Isca de frango ao molho",
+			"guarnicao": "Cabutia refogada",
+			"salada": "Acelga, pepino e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Mix de doces"
+		},
+		{
+			"date": "Sexta-feira - 30/08/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa crocante",
-			"salada": "Couve, vinagrete e azeitonas",
+			"guarnicao": "Farofa de cenoura",
+			"salada": "Couve com vinagrete",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
