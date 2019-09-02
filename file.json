@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 26/08/2019",
-			"main_course": "Carne ao molho ferrugem",
-			"guarnicao": "Virado de banana",
-			"salada": "Repolho, cenoura e tomate",
+			"date": "Segunda-feira - 02/09/2019",
+			"main_course": "Frango ao molho chines",
+			"guarnicao": "Polenta",
+			"salada": "Couve, laranja e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Terca-feira - 27/08/2019",
-			"main_course": "File de frango empanado",
-			"guarnicao": "Abobrinha refogada",
-			"salada": "Dueto de legumes ao molho branco",
+			"date": "Terca-feira - 03/09/2019",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Macarronada",
+			"salada": "Alface, tomate e pepino",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quarta-feira - 28/08/2019",
-			"main_course": "Costela refogada desossada",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Couve, agriao e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Quarta-feira - 04/09/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Acelga, tomate e cenoura",
+			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Salada de frutas"
 		},
 		{
-			"date": "Quinta-feira - 29/08/2019",
-			"main_course": "Isca de frango ao molho",
-			"guarnicao": "Cabutia refogada",
-			"salada": "Acelga, pepino e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doces"
+			"date": "Quinta-feira - 05/09/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Salada tropical",
+			"acompanhamento": "Arroz com milho, ervilha e feijao carioca",
+			"sobremesa": "Gelatina"
 		},
 		{
-			"date": "Sexta-feira - 30/08/2019",
+			"date": "Sexta-feira - 06/09/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de cenoura",
-			"salada": "Couve com vinagrete",
+			"guarnicao": "Virado de couve a mineira",
+			"salada": "Alface, tomate e cebola",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
