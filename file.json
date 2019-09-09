@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 02/09/2019",
-			"main_course": "Frango ao molho chines",
+			"date": "Segunda-feira - 09/09/2019",
+			"main_course": "Carne suina com ervas",
 			"guarnicao": "Polenta",
-			"salada": "Couve, laranja e tomate",
+			"salada": "Acelga, pepino e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Maca"
+			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Terca-feira - 03/09/2019",
-			"main_course": "Figado acebolado",
-			"guarnicao": "Macarronada",
-			"salada": "Alface, tomate e pepino",
+			"date": "Terca-feira - 10/09/2019",
+			"main_course": "Carne moida ao sugo",
+			"guarnicao": "Pure de cara com beterraba",
+			"salada": "Repolho e tomate",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Melancia"
+		},
+		{
+			"date": "Quarta-feira - 11/09/2019",
+			"main_course": "Frango ao molho",
+			"guarnicao": "Cabutia refogado",
+			"salada": "Alface, couve e beterraba",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quarta-feira - 04/09/2019",
-			"main_course": "Linguica assada",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Acelga, tomate e cenoura",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Salada de frutas"
+			"date": "Quinta-feira - 12/09/2019",
+			"main_course": "Carne ao molho xadrez",
+			"guarnicao": "Dueto de legumes",
+			"salada": "Acelga, tomate e brocolis",
+			"acompanhamento": "Arroz branco e feijao carioca",
+			"sobremesa": "Maca"
 		},
 		{
-			"date": "Quinta-feira - 05/09/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Salada tropical",
-			"acompanhamento": "Arroz com milho, ervilha e feijao carioca",
-			"sobremesa": "Gelatina"
-		},
-		{
-			"date": "Sexta-feira - 06/09/2019",
+			"date": "Sexta-feira - 13/09/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de couve a mineira",
-			"salada": "Alface, tomate e cebola",
+			"guarnicao": "Virado de banana",
+			"salada": "Couve, tomate e cenoura",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Laranja"
 		}
