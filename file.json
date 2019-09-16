@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 09/09/2019",
-			"main_course": "Carne suina com ervas",
-			"guarnicao": "Polenta",
-			"salada": "Acelga, pepino e tomate",
+			"date": "Segunda-feira - 16/09/2019",
+			"main_course": "Galinhada",
+			"guarnicao": "Virado de couve",
+			"salada": "Repolho, laranja e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Pacoca"
+			"sobremesa": "Mix de doces"
 		},
 		{
-			"date": "Terca-feira - 10/09/2019",
-			"main_course": "Carne moida ao sugo",
-			"guarnicao": "Pure de cara com beterraba",
-			"salada": "Repolho e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
+			"date": "Terca-feira - 17/09/2019",
+			"main_course": "Lagarto de panela",
+			"guarnicao": "Chuchu com cenoura",
+			"salada": "Alface, agriao e beterraba",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Laranja"
 		},
 		{
-			"date": "Quarta-feira - 11/09/2019",
-			"main_course": "Frango ao molho",
-			"guarnicao": "Cabutia refogado",
-			"salada": "Alface, couve e beterraba",
+			"date": "Quarta-feira - 18/09/2019",
+			"main_course": "Moela de frango ao molho sugo",
+			"guarnicao": "Macarrao alho e oleo",
+			"salada": "Mix de folhas com abacaxi e tomate",
 			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 12/09/2019",
-			"main_course": "Carne ao molho xadrez",
-			"guarnicao": "Dueto de legumes",
-			"salada": "Acelga, tomate e brocolis",
+			"date": "Quinta-feira - 19/09/2019",
+			"main_course": "Linguica assada",
+			"guarnicao": "Pure de batat com ervas",
+			"salada": "Alface, pepino e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Maca"
+			"sobremesa": "Gelatina"
 		},
 		{
-			"date": "Sexta-feira - 13/09/2019",
+			"date": "Sexta-feira - 20/09/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de banana",
-			"salada": "Couve, tomate e cenoura",
+			"guarnicao": "Cuscuz temperado",
+			"salada": "Acelga e vinagrete",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
+			"sobremesa": "Salada de frutas"
 		}
 	]
 }
