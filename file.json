@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 23/09/2019",
-			"main_course": "Frango ao molho chines",
-			"guarnicao": "Polenta",
-			"salada": "Acelga, beterraba e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Segunda-feira - 30/09/2019",
+			"main_course": "Galinhada",
+			"guarnicao": "Macarronada",
+			"salada": "Repolho bicolor e tomate",
+			"acompanhamento": "Feijao carioca",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Terca-feira - 24/09/2019",
-			"main_course": "Escondidinho de carne",
-			"guarnicao": "Repolho com cenoura",
-			"salada": "Alface e tabule",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Quarta-feira - 25/09/2019",
-			"main_course": "Cane de porco acebolada",
-			"guarnicao": "Mandioca cremosa",
+			"date": "Terca-feira - 01/10/2019",
+			"main_course": "Carne ao molho sugo",
+			"guarnicao": "Cucuz com tomate",
 			"salada": "Acelga, pepino e tomate",
 			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Quinta-feira - 26/09/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Creme de abobora com leite de coco",
-			"salada": "Alface, brocolis e cenoura",
+			"date": "Quarta-feira - 02/10/2019",
+			"main_course": "Figado acebolado",
+			"guarnicao": "Dueto de legumes",
+			"salada": "Alface, rucula e cenoura",
 			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Laranja"
+			"sobremesa": "Banana"
 		},
 		{
-			"date": "Sexta-feira - 27/09/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Farora crocante",
-			"salada": "Couve e vinagrete",
-			"acompanhamento": "Arroz branco",
+			"date": "Quinta-feira - 03/10/2019",
+			"main_course": "Frango grelhado com ervas",
+			"guarnicao": "Pure de batatas",
+			"salada": "Mix de folhas e beterraba",
+			"acompanhamento": "Arroz branco e feijao carioca",
 			"sobremesa": "Salada de frutas"
+		},
+		{
+			"date": "Sexta-feira - 04/10/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Virado de couve",
+			"salada": "Alface, tomate e cebola",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Laranja"
 		}
 	]
 }
