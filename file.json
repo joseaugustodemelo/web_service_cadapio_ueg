@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 07/10/2019",
-			"main_course": "Carne ao molho ferrugem",
-			"guarnicao": "Virado de cenoura",
-			"salada": "Mix de folhas e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
+			"date": "Segunda-feira - 14/10/2019",
+			"main_course": "Bobo de carne",
+			"guarnicao": "Legumes salteados",
+			"salada": "Rebolho bicolor e tomate",
+			"acompanhamento": "Arroz branco e feijao de caldo",
+			"sobremesa": "Maca"
+		},
+		{
+			"date": "Terca-feira - 15/10/2019",
+			"main_course": "Frango ao molho de acafrao",
+			"guarnicao": "Polenta com quiabo",
+			"salada": "Alface, cenoura e pepino",
+			"acompanhamento": "Arroz branco e feijao de caldo",
+			"sobremesa": "Pacoca"
+		},
+		{
+			"date": "Quarta-feira - 16/10/2019",
+			"main_course": "Carne suina ao molho de ervas",
+			"guarnicao": "Cabutia refogada",
+			"salada": "Mix de folhas e beterraba",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Laranja"
+		},
+		{
+			"date": "Quinta-feira - 17/10/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Alface, tomate e fruta",
+			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Terca-feira - 08/10/2019",
-			"main_course": "Isca de frango acebolado",
-			"guarnicao": "Dueto de legumes ao molho branco",
-			"salada": "Repolho, couve e beterraba",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Mix de doces"
-		},
-		{
-			"date": "Quarta-feira - 09/10/2019",
-			"main_course": "Carne bovina de panela",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Acelga com brocolis e tomate",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Melancia"
-		},
-		{
-			"date": "Quinta-feira - 10/10/2019",
-			"main_course": "Coxa e sobrecoxa de frango casquinha",
-			"guarnicao": "Macarronada com queijo",
-			"salada": "Alface, tomate e cenoura",
-			"acompanhamento": "Arroz branco e feijao carioca",
-			"sobremesa": "Geladinho"
-		},
-		{
-			"date": "Sexta-feira - 11/10/2019",
+			"date": "Sexta-feira - 18/10/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa de abobrinha com ovos",
+			"guarnicao": "Farofa crocante",
 			"salada": "Couve e vinagrete",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Laranja"
+			"sobremesa": "Duego de frutas"
 		}
 	]
 }
