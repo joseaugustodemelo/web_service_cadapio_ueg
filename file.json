@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 14/10/2019",
-			"main_course": "Bobo de carne",
-			"guarnicao": "Legumes salteados",
-			"salada": "Rebolho bicolor e tomate",
-			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Maca"
-		},
-		{
-			"date": "Terca-feira - 15/10/2019",
-			"main_course": "Frango ao molho de acafrao",
-			"guarnicao": "Polenta com quiabo",
-			"salada": "Alface, cenoura e pepino",
-			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Pacoca"
-		},
-		{
-			"date": "Quarta-feira - 16/10/2019",
-			"main_course": "Carne suina ao molho de ervas",
-			"guarnicao": "Cabutia refogada",
-			"salada": "Mix de folhas e beterraba",
-			"acompanhamento": "Arroz branco e tutu de feijao",
-			"sobremesa": "Laranja"
-		},
-		{
-			"date": "Quinta-feira - 17/10/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Alface, tomate e fruta",
-			"acompanhamento": "Arroz branco e feijao de caldo",
+			"date": "Segunda-feira - 21/10/2019",
+			"main_course": "Arroz com carne suina",
+			"guarnicao": "Virado de couve a mineira",
+			"salada": "Rebolho, beterraba e tomate",
+			"acompanhamento": "Feijao de caldo",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Sexta-feira - 18/10/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Farofa crocante",
-			"salada": "Couve e vinagrete",
-			"acompanhamento": "Arroz branco",
-			"sobremesa": "Duego de frutas"
+			"date": "Terca-feira - 22/10/2019",
+			"main_course": "Estrogonofe de carne",
+			"guarnicao": "Batata saute",
+			"salada": "Alface, tomate e pepino",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Pacoca"
+		},
+		{
+			"date": "Quarta-feira - 23/10/2019",
+			"main_course": "Bife bovino ao molho escuro",
+			"guarnicao": "Repolho com cenoura",
+			"salada": "Couve, laranje e tomate",
+			"acompanhamento": "Arroz branco e feijao de caldo",
+			"sobremesa": "Salada de fruntas"
+		},
+		{
+			"date": "Quinta-feira - 24/10/2019",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
+		},
+		{
+			"date": "Sexta-feira - 25/10/2019",
+			"main_course": "Recesso",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		}
 	]
 }
