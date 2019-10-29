@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 21/10/2019",
-			"main_course": "Arroz com carne suina",
-			"guarnicao": "Virado de couve a mineira",
-			"salada": "Rebolho, beterraba e tomate",
-			"acompanhamento": "Feijao de caldo",
-			"sobremesa": "Banana"
-		},
-		{
-			"date": "Terca-feira - 22/10/2019",
-			"main_course": "Estrogonofe de carne",
-			"guarnicao": "Batata saute",
-			"salada": "Alface, tomate e pepino",
+			"date": "Segunda-feira - 29/10/2019",
+			"main_course": "Galinhada",
+			"guarnicao": "Macarronada com queijo",
+			"salada": "Acelga, pepino e tomate",
 			"acompanhamento": "Arroz branco e tutu de feijao",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Quarta-feira - 23/10/2019",
-			"main_course": "Bife bovino ao molho escuro",
-			"guarnicao": "Repolho com cenoura",
-			"salada": "Couve, laranje e tomate",
+			"date": "Terca-feira - 30/10/2019",
+			"main_course": "Carne moida com vagem e cenoura",
+			"guarnicao": "Inhame ao molho de acafrao",
+			"salada": "Repolho e tomate",
 			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Salada de fruntas"
+			"sobremesa": "Laranja"
 		},
 		{
-			"date": "Quinta-feira - 24/10/2019",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quarta-feira - 31/10/2019",
+			"main_course": "Lagarto ao molho madeira",
+			"guarnicao": "Batata saute",
+			"salada": "Folhas com frutas",
+			"acompanhamento": "Arroz branco e feijao de caldo",
+			"sobremesa": "Geladinho"
 		},
 		{
-			"date": "Sexta-feira - 25/10/2019",
-			"main_course": "Recesso",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"date": "Quinta-feira - 01/11/2019",
+			"main_course": "Iscas de frango empanado",
+			"guarnicao": "Polenta com jilo",
+			"salada": "Couve com abacaxi e cenoura",
+			"acompanhamento": "Arroz branco e feijao de caldo",
+			"sobremesa": "Banana"
+		},
+		{
+			"date": "Sexta-feira - 02/11/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Virado de couve",
+			"salada": "Alface, vinagrete e azeitonas",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Salada de frutas"
 		}
 	]
 }
