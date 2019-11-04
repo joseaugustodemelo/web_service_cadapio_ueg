@@ -1,41 +1,41 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 29/10/2019",
-			"main_course": "Galinhada",
-			"guarnicao": "Macarronada com queijo",
-			"salada": "Acelga, pepino e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
+			"date": "Segunda-feira - 04/11/2019",
+			"main_course": "Iscas de carne ao molho ferrugem",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Repolho, beterraba e tomate",
+			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Terca-feira - 30/10/2019",
-			"main_course": "Carne moida com vagem e cenoura",
-			"guarnicao": "Inhame ao molho de acafrao",
-			"salada": "Repolho e tomate",
+			"date": "Terca-feira - 05/11/2019",
+			"main_course": "Estrogonofe de frango",
+			"guarnicao": "Farofa crocante",
+			"salada": "Mix de folhas com cenoura",
 			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Laranja"
+			"sobremesa": "Maca"
 		},
 		{
-			"date": "Quarta-feira - 31/10/2019",
-			"main_course": "Lagarto ao molho madeira",
-			"guarnicao": "Batata saute",
-			"salada": "Folhas com frutas",
-			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Geladinho"
-		},
-		{
-			"date": "Quinta-feira - 01/11/2019",
-			"main_course": "Iscas de frango empanado",
-			"guarnicao": "Polenta com jilo",
-			"salada": "Couve com abacaxi e cenoura",
+			"date": "Quarta-feira - 06/11/2019",
+			"main_course": "Carne de panela com pimetao",
+			"guarnicao": "Dueto de legumes com molho branco",
+			"salada": "Alface, almeirao e tomate",
 			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Sexta-feira - 02/11/2019",
+			"date": "Quinta-feira - 07/11/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Pirao de legumes",
+			"salada": "Acelga, repolho e cenoura",
+			"acompanhamento": "Arroz branco e feijao de caldo",
+			"sobremesa": "Laranja"
+		},
+		{
+			"date": "Sexta-feira - 08/11/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Virado de couve",
-			"salada": "Alface, vinagrete e azeitonas",
+			"guarnicao": "Farofa de couve com ovo",
+			"salada": "Alface, tomate e cebola",
 			"acompanhamento": "Arroz branco",
 			"sobremesa": "Salada de frutas"
 		}
