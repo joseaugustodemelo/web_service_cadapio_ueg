@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 04/11/2019",
-			"main_course": "Iscas de carne ao molho ferrugem",
-			"guarnicao": "Quibebe de mandioca",
-			"salada": "Repolho, beterraba e tomate",
+			"date": "Segunda-feira - 11/11/2019",
+			"main_course": "Carne moida com pimetao e tomate",
+			"guarnicao": "Macarronada",
+			"salada": "Couve, laranja e tomate",
+			"acompanhamento": "Arroz branco e tutu de feijao",
+			"sobremesa": "Maca"
+		},
+		{
+			"date": "Terca-feira - 12/11/2019",
+			"main_course": "Bife suino grelhado",
+			"guarnicao": "Mandioca cremosa",
+			"salada": "Acelga, tomate e pepino",
 			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Pacoca"
 		},
 		{
-			"date": "Terca-feira - 05/11/2019",
-			"main_course": "Estrogonofe de frango",
-			"guarnicao": "Farofa crocante",
-			"salada": "Mix de folhas com cenoura",
-			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Maca"
-		},
-		{
-			"date": "Quarta-feira - 06/11/2019",
-			"main_course": "Carne de panela com pimetao",
-			"guarnicao": "Dueto de legumes com molho branco",
-			"salada": "Alface, almeirao e tomate",
+			"date": "Quarta-feira - 13/11/2019",
+			"main_course": "Almondega bovina ao molho escuro",
+			"guarnicao": "Legumes salteados",
+			"salada": "Alface, chicoria e beterraba",
 			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 07/11/2019",
-			"main_course": "Peixe empanado",
-			"guarnicao": "Pirao de legumes",
-			"salada": "Acelga, repolho e cenoura",
-			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Laranja"
+			"date": "Quinta-feira - 15/11/2019",
+			"main_course": "Feijoada",
+			"guarnicao": "Farofa rica",
+			"salada": "Alface e vinagrete",
+			"acompanhamento": "Arroz branco",
+			"sobremesa": "Dueto de frutas"
 		},
 		{
-			"date": "Sexta-feira - 08/11/2019",
-			"main_course": "Feijoada",
-			"guarnicao": "Farofa de couve com ovo",
-			"salada": "Alface, tomate e cebola",
-			"acompanhamento": "Arroz branco",
-			"sobremesa": "Salada de frutas"
+			"date": "Sexta-feira - 16/11/2019",
+			"main_course": "Feriado",
+			"guarnicao": "",
+			"salada": "",
+			"acompanhamento": "",
+			"sobremesa": ""
 		}
 	]
 }
