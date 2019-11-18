@@ -1,43 +1,43 @@
 {
 	"weekly_menu_list": [{
-			"date": "Segunda-feira - 11/11/2019",
-			"main_course": "Carne moida com pimetao e tomate",
-			"guarnicao": "Macarronada",
-			"salada": "Couve, laranja e tomate",
-			"acompanhamento": "Arroz branco e tutu de feijao",
+			"date": "Segunda-feira - 18/11/2019",
+			"main_course": "Carne ao molho madeira",
+			"guarnicao": "Quibebe de mandioca",
+			"salada": "Acelga, abacaxi e tomate",
+			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Maca"
 		},
 		{
-			"date": "Terca-feira - 12/11/2019",
-			"main_course": "Bife suino grelhado",
-			"guarnicao": "Mandioca cremosa",
-			"salada": "Acelga, tomate e pepino",
+			"date": "Terca-feira - 19/11/2019",
+			"main_course": "Peixe empanado",
+			"guarnicao": "Creme de abobora com leite de coco",
+			"salada": "Couve, tomate e repolho",
 			"acompanhamento": "Arroz branco e feijao de caldo",
-			"sobremesa": "Pacoca"
+			"sobremesa": "Laranja"
 		},
 		{
-			"date": "Quarta-feira - 13/11/2019",
-			"main_course": "Almondega bovina ao molho escuro",
-			"guarnicao": "Legumes salteados",
-			"salada": "Alface, chicoria e beterraba",
+			"date": "Quarta-feira - 20/11/2019",
+			"main_course": "Bobo de frango",
+			"guarnicao": "Farofa de banana",
+			"salada": "Mix de folhas com tomate",
+			"acompanhamento": "Arroz branco e feijao preto de caldo",
+			"sobremesa": "Geladinho"
+		},
+		{
+			"date": "Quinta-feira - 21/11/2019",
+			"main_course": "Iscas de carne ao sugo",
+			"guarnicao": "Cenoura com chuchu",
+			"salada": "Repolho bicolor e laranja",
 			"acompanhamento": "Arroz branco e feijao de caldo",
 			"sobremesa": "Banana"
 		},
 		{
-			"date": "Quinta-feira - 15/11/2019",
+			"date": "Sexta-feira - 22/11/2019",
 			"main_course": "Feijoada",
-			"guarnicao": "Farofa rica",
-			"salada": "Alface e vinagrete",
+			"guarnicao": "Virado de cenoura",
+			"salada": "Alface, tomate e rabanete",
 			"acompanhamento": "Arroz branco",
-			"sobremesa": "Dueto de frutas"
-		},
-		{
-			"date": "Sexta-feira - 16/11/2019",
-			"main_course": "Feriado",
-			"guarnicao": "",
-			"salada": "",
-			"acompanhamento": "",
-			"sobremesa": ""
+			"sobremesa": "Salada de frutas"
 		}
 	]
 }
